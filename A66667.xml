@@ -1,0 +1,773 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ludus mathematicus, or, The mathematical game explaining the description, construction, and use of the numericall table of proportion, by help whereof, and of certain chessmen (fitted for that purpose) any proportion, arithmetical or geometrical (without any calculation at all, or use of pen), may be readily and with delight resolved when the term exceeds not 1000000 / by E.W.</title>
+            <author>Wingate, Edmund, 1596-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66667</idno>
+            <idno type="STC">Wing W3019</idno>
+            <idno type="STC">ESTC R38315</idno>
+            <idno type="EEBO-CITATION">17294908</idno>
+            <idno type="OCLC">ocm 17294908</idno>
+            <idno type="VID">106347</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106347)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1163:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ludus mathematicus, or, The mathematical game explaining the description, construction, and use of the numericall table of proportion, by help whereof, and of certain chessmen (fitted for that purpose) any proportion, arithmetical or geometrical (without any calculation at all, or use of pen), may be readily and with delight resolved when the term exceeds not 1000000 / by E.W.</title>
+                  <author>Wingate, Edmund, 1596-1656.</author>
+               </titleStmt>
+               <extent>[14], 76 p., [2] leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. &amp; W. Leybourn and are to be sold by Philemon Stephens ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC LIV [1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: preliminary p. [14]</note>
+                  <note>Tables.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ratio and proportion --  Early works to 1800.</term>
+               <term>Mathematics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:106347:1"/>
+            <pb facs="tcp:106347:1" rendition="simple:additions"/>
+            <p>
+               <hi>Ludus Mathematicus:</hi> OR, THE MATHEMATICAL GAME: Explaining the deſcrip<g ref="char:EOLhyphen"/>tion, conſtruction,, and uſe of the Numericall Table of Proportion.</p>
+            <p>By help whereof, and of certain Cheſſmen (fitted for that purpoſe) any Propoſition Arithmetical or Geome<g ref="char:EOLhyphen"/>trical (without any Calculation at all, or uſe of Pen) may be readily and with delight reſolved, when the term requi<g ref="char:EOLhyphen"/>red exceeds not 100000.</p>
+            <p>By <hi>E. W.</hi>
+            </p>
+            <p>
+               <q>Omne tulit punctum, qui miſcuit utile dulci.</q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R.</hi>&amp; <hi>W. Leybourn,</hi> and are to be ſold by <hi>Philemon Stephens</hi> at the Gilded Lion in <hi>Paul</hi>'s Church yard, <hi>M DC LIV.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:106347:2" rendition="simple:additions"/>
+            <pb facs="tcp:106347:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His <hi>Inſtrument</hi> I at firſt intended for my own pri<g ref="char:EOLhyphen"/>vate uſe &amp; de<g ref="char:EOLhyphen"/>light, not con<g ref="char:EOLhyphen"/>ceiving it worthy to ſee the light: but being ſince in<g ref="char:EOLhyphen"/>formed by others, (well verſt in the Mathematicks) and
+<pb facs="tcp:106347:3"/>finding alſo by experience, that it may prove uſefull for others (and, <hi>Bonum quò com<g ref="char:EOLhyphen"/>munas eò melius</hi>) I have per<g ref="char:EOLhyphen"/>mitted it to launch into the Ocean of cenſure: Howbe<g ref="char:EOLhyphen"/>it, I preſent it chiefly to ſuch as (in ſome competent man<g ref="char:EOLhyphen"/>ner) have already acquainetd themſelves with the <hi>modern</hi> uſe of Arithmetick, I mean, by <hi>Logarithms, Decimals,</hi> and <hi>Scales;</hi> for, they may be able immediately to apprehend the uſe thereof, and that with ſome pleaſure and delight. To other Arithmeticians not acquainted with that kinde of <hi>Artificiall</hi> Arithmetick, it may (at firſt) ſeeme ſome<g ref="char:EOLhyphen"/>what
+<pb facs="tcp:106347:3"/>more difficult. But un<g ref="char:EOLhyphen"/>to ſuch as are not at all verſt in Arithetick, I may object <hi>Plato</hi>'s Inſcription placed over the doore of his Acade<g ref="char:EOLhyphen"/>mie concerning Geometry (including alſo Arithmetick) <hi>Nemo Geometriae ignarus huc ingreditor.</hi> It profeſſeth to render you the term requi<g ref="char:EOLhyphen"/>red in any queſtion propoun<g ref="char:EOLhyphen"/>ded, when it will not amount to above 100000, that is, when it exceeds not five fi<g ref="char:EOLhyphen"/>gures or places, and that it will cleerly do, (eſpecially towards the beginning of the Scale) when the term or terms out of which the <hi>Queſtion</hi> is to be produced, are <hi>rationall</hi>
+               <pb facs="tcp:106347:4"/>numbers, <hi>viz.</hi> when the term required to be extracted from them, will be (preciſely) a whole number, without a fraction attending it; but when the term or terms given are <hi>irrational</hi> numbers, which will produce a mixt number, conſiſting of a whole part to<g ref="char:EOLhyphen"/>gether with a fraction, in that caſe it will repreſent unto you only the whole part thereof, without the broken part or fraction; which defect (never<g ref="char:EOLhyphen"/>theleſſe) will occaſion no in<g ref="char:EOLhyphen"/>convenience in the practiſe of this <hi>Inſtrument,</hi> the broken part of a number of ſuch an extent being not conſiderable in Queſtions of ordinary
+<pb facs="tcp:106347:4"/>practiſe, as is well known to all <hi>Artiſts:</hi> This advertiſe<g ref="char:EOLhyphen"/>ment I have thought fit to premiſe, leſt it might ſeeme to promiſe more than it can perform, and ſo cauſe the <hi>Practitioner</hi> to be fruſtrated of his expectation.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:106347:5"/>
+            <pb facs="tcp:106347:5"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>CHAP. I.</hi> The Definition, de<g ref="char:EOLhyphen"/>ſcription, and con<g ref="char:EOLhyphen"/>ſtruction of the Nu<g ref="char:EOLhyphen"/>mericall Table of Proportion. <hi>p. 1.</hi>
+               </item>
+               <pb facs="tcp:106347:6"/>
+               <item>
+                  <hi>CHAP. II.</hi> Numeration upon the Scale of Numbers. <hi>p. 15.</hi>
+               </item>
+               <item>
+                  <hi>CHAP. III.</hi> Numeration upon the Alphabets &amp; tranſ<g ref="char:EOLhyphen"/>verſals. <hi>p. 24</hi>
+               </item>
+               <item>
+                  <hi>CHAP. IV.</hi> Application of the Ta<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:106347:6"/>in the reſolution of theſe Propoſitions following. <hi>p. 46</hi>
+                  <list>
+                     <item>
+                        <hi>1.</hi> To three numbers gi<g ref="char:EOLhyphen"/>ven, to finde a fourth in a di<g ref="char:EOLhyphen"/>rect proportion <hi>ibid.</hi>
+                     </item>
+                     <item>
+                        <hi>2.</hi> To three numbers gi<g ref="char:EOLhyphen"/>ven, to finde a fourth in an in<g ref="char:EOLhyphen"/>verſed proportion. <hi>p. 52</hi>
+                     </item>
+                     <item>
+                        <hi>3.</hi> One number being given to be multiplyed by another, to
+<pb facs="tcp:106347:7"/>finde the Product. <hi>p. 54</hi>
+                     </item>
+                     <item>
+                        <hi>4.</hi> One number being given to be divided by another, to find the Quotient. <hi>p. 59</hi>
+                     </item>
+                     <item>
+                        <hi>5.</hi> Two numbers being gi<g ref="char:EOLhyphen"/>ven, to find a third Geometri<g ref="char:EOLhyphen"/>cally proportionall unto them, and to three, a fourth, and to four, a fift, &amp;c. <hi>p. 63</hi>
+                     </item>
+                     <item>
+                        <hi>6.</hi> To extract the ſquare<g ref="char:EOLhyphen"/>root of any number given un<g ref="char:EOLhyphen"/>der <hi>10000000000. p. 64</hi>
+                     </item>
+                     <item>
+                        <hi>7.</hi> To extract the Cube-root
+<pb facs="tcp:106347:7"/>of any number given under <hi>1000000000000000. p. 69</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:106347:8"/>
+            <head>ERRATA.</head>
+            <p>PAge 4. line 23. for 100 read 107. p. 9. l. 22. f. here r. them. p. 13. l. 15. f. inter<g ref="char:EOLhyphen"/>vall r. internall. p. 16. l. 24. f. brought r. brings. p. 42. l. 18, 19. f. Thus likewiſe you may, r. This likewiſe may. p. 46. l. 1. f. <hi>Rule</hi> r. <hi>Table.</hi> p. 47. l. 27. f. <hi>k,</hi> (r. <hi>k,</hi> which).</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:106347:8"/>
+            <head>THE MATHEMATICAL Game.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I,</hi> The Definition, Deſcription, and Conſtruction, of the Numericall Table of Proportion.</head>
+               <p n="1">I. <seg rend="decorInit">A</seg> 
+                  <hi>Table of Proportion is an Inſtrument framed by Logarithms, and in<g ref="char:EOLhyphen"/>vented for the more ea<g ref="char:EOLhyphen"/>ſie reſolving of Arith<g ref="char:EOLhyphen"/>meticall and Geometricall Operations.</hi>
+               </p>
+               <pb n="2" facs="tcp:106347:9"/>
+               <p>In <hi>Naturall</hi> or Vulgar Arithmetick, the Propoſitions are reſolved by uſing the Numbers themſelves, as if 4 were given to be multiplyed by 2, we ſay, two times four makes 8, the Product. In <hi>Artificiall</hi> Arithmetick, if rhe ſame Queſtion were propounded, inſteed of 4 and 2, we take their Logarithms; ſo if the Logarithm of 4 (being 0,602060) be added to the Logarithm of 2 (being 0,301030) their ſumme is 0,903090 which being found in the Table of Logarithms, is the Logarithm of 8, the Product, as before. Howbeit here, in the uſe of this Inſtrument we need not Multiply or Divide, Adde ar Subſtract, which for the moſt part perplex and diſcourage the Practitioner, but by the motion of certain Cheſſe-men (fitted for that purpoſe) we perform with pleaſure and delight, the hardeſt Pro<g ref="char:EOLhyphen"/>poſitions of Arithmetick and Geometry without charging the minde or memory with any thing, which may ſeeme bur<g ref="char:EOLhyphen"/>thenſome or diſtaſtfull.</p>
+               <p n="2">II. <hi>This Inſtrument is twofold, Nu<g ref="char:EOLhyphen"/>mericall or Trigonometricall.</hi>
+               </p>
+               <pb n="3" facs="tcp:106347:9"/>
+               <p n="3">III. <hi>The Numericall Table of Pro<g ref="char:EOLhyphen"/>portion is an Inſtrument, by help whereof, and of certain moveable Cheſſe-men, all Queſtions Arithmeticall and Geometri<g ref="char:EOLhyphen"/>call</hi> (<hi>performed by</hi> Multiplication, Di<g ref="char:EOLhyphen"/>viſion, <hi>or the</hi> Golden Rule, <hi>and not Tri<g ref="char:EOLhyphen"/>gonometricall</hi>) <hi>together with mean Pro<g ref="char:EOLhyphen"/>portionals, &amp; the Extraction of the Roots of all Square-numbers under</hi> 11 <hi>places, and of all Cube-numbers under</hi> 16 <hi>pla<g ref="char:EOLhyphen"/>ces, as well in mixt and broken, as in whole numbers</hi> (<hi>when the term requi<g ref="char:EOLhyphen"/>red exceeds not</hi> 100000) <hi>are with great <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſe and exactneſſe Reſolved.</hi> For we <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntend not here to meddle with any queſtions, that are performed by the Doctrine of Triangles, referring them <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be handled in the uſe of the Table of Proportion Trigonometricall.</p>
+               <p n="4">IV. <hi>Of the Numericall Table of Pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tion theſe things offer themſelves to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> conſidered,</hi> viz. <hi>The Deſcription and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onſtruction, or the <g ref="char:V">Ʋ</g>ſe.</hi>
+               </p>
+               <p n="5">V. <hi>For the more plain deſcribing of <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is Inſtrument, it may be ſaid to conſiſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> two parts,</hi> viz. <hi>The Body of the Ta<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e it ſelf and ſubſtantiall part, or the
+<pb n="4" facs="tcp:106347:10" rendition="simple:additions"/>Appendants and Circumſtantiall part thereof.</hi>
+               </p>
+               <p n="6">VI. <hi>The Bodie of the Table it ſelf is a Scale of unequall parts broken off in<g ref="char:EOLhyphen"/>to Fractions, and hereafter (for diſtin<g ref="char:EOLhyphen"/>ction ſake) called the Scale of Numbers.</hi> This Scale is nothing elſe but a line of Numbers broken off into 36 fracti<g ref="char:EOLhyphen"/>ons or equal parts; Now what a line of Numbers is, hath been heretofore taught by Mr. <hi>Gunter</hi> in his Book of the <hi>Croſſe-ſtaffe,</hi> and is well enough known to all modern Artiſts.</p>
+               <p n="7">VII. <hi>A Fraction of the Scale of Numbers is an equall part of the ſame Scale, conſiſting of Lines, Spaces, and Diviſions:</hi> So this Scale is broken of or divided into thirty ſix of thoſe equal parts or fractions, numbred at their right ends by 1, 2, 3, &amp;c. to 36, of which the part ſigned at the left end thereo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by 100, is the firſt Fraction, that ſigne by 100, is the ſecond, &amp;c.</p>
+               <p n="8">VIII. <hi>Each of theſe Fractions con<g ref="char:EOLhyphen"/>ſiſts of three lines and two ſpaces:</hi> ſo the pricked line which you finde place under each Fraction, is not to be take
+<pb n="5" facs="tcp:106347:10"/>as any part thereof, but hath another uſe, as ſhall be declared in the proper place.</p>
+               <p n="9">IX. <hi>Theſe Fractions, together with their Lines and Spaces muſt be underſtood to joyn reſpectively one to another, in ſuch ſort that the whole Scale of Num<g ref="char:EOLhyphen"/>bers may be conceived to be one entire and continued Line:</hi> For <hi>Example.</hi> The right end of the firſt Fraction marked by 1 <hi>A.</hi> muſt be conceived to joyn with the left end of the ſecond Fraction, ſigned by 107, and the right end of the ſecond Fraction, marked by 2 <hi>B.</hi> muſt be underſtood to joyn with the left end of the third Fraction, noted by 114: And ſo conſequently of the reſt in their order: ſo that the whole Scale of Num<g ref="char:EOLhyphen"/>bers, beginning at the left end of the firſt Fraction (ſigned by 100) and end<g ref="char:EOLhyphen"/>ing at the right end of the laſt Fraction (noted by 36 <hi>F.</hi>) muſt be conceived to be one intire and continued line, as a<g ref="char:EOLhyphen"/>foreſaid: And therefore (by farther conſequence) in mounting up wards the leſt end of the laſt Fraction, ſigned by 939, muſt be alſo conceived to joyne
+<pb n="6" facs="tcp:106347:11"/>with the right end of that above it, ſigned by 35 <hi>E.</hi> and ſo of the reſt, in aſcending upwards, untill you mount to the beginning of the Scale.</p>
+               <p n="10">X. <hi>The intire Scale of Numbers is firſt divided into a thouſand unequall parts, which are hereafter called Hun<g ref="char:EOLhyphen"/>dreds, and diſtinguiſhed by having three figures placed at the beginning of each of them:</hi> ſo 100 (at the beginning of the Scale) are the figures of the firſt Hundred; 101, of the ſecond Hun<g ref="char:EOLhyphen"/>dred; 102, of the third Hundred; 103, of the fourth Hundred, &amp;c.</p>
+               <p n="11">XI. <hi>Each of theſe Hundreds are a<g ref="char:EOLhyphen"/>gain ſub-divided into ten other unequall parts, hereafter called Tenths; and each Tenth alſo ſuppoſed to be again divided into ten other parts, called <g ref="char:V">Ʋ</g>nits:</hi> For the diſtances between the Tenths being ſmall, they will not admit any reall diviſion of the ſame Tenths into ten o<g ref="char:EOLhyphen"/>ther parts: And therefore you are to ſuppoſe them to be ſo divided; and hereafter when you ſhall have occaſion to uſe thoſe parts, you are to gueſſe at them, as to direct your eye to the mid<g ref="char:EOLhyphen"/>dle
+<pb n="7" facs="tcp:106347:11"/>of them, when you are to take five of theſe Units; and ſomewhat beyond the middle, when ſix of them are pro<g ref="char:EOLhyphen"/>pounded, &amp;c. Howbeit, becauſe at the beginning of the Scale of Num<g ref="char:EOLhyphen"/>bers the diſtance of the Tenths are ſo large, that you cannot readily (in man<g ref="char:EOLhyphen"/>ner aforeſaid) gueſſe at the Units com<g ref="char:EOLhyphen"/>prehended betwixt them, I have cauſed that diſtance upon the firſt fix Fractions to be divided into five parts, each part repreſenting two Units; and from thence upon the ſix Fractions next after following into two parts, each part re<g ref="char:EOLhyphen"/>preſenting five Units; In the mean time, diſtinguiſhing the Tenths com<g ref="char:EOLhyphen"/>prehended betwixt every two hundreds by ſharp points riſing from the middle line of the Scale into the uppermoſt ſpace thereof, and upon all the reſt of the Scale, leaving the Units to be gueſ<g ref="char:EOLhyphen"/>ſed at, as aforeſaid.</p>
+               <p n="12">XII. <hi>To deſcribe the Hundreds and Tenths upon the Scale of Numbers; Ha<g ref="char:EOLhyphen"/>ving firſt prepared a Scale of</hi> 100 <hi>equall parts, containing in length the hundred part of the whole intended Scale of Num<g ref="char:EOLhyphen"/>bers</hi>
+                  <pb n="8" facs="tcp:106347:12"/>(<hi>which Scale of equall parts muſt be ſuppoſed to be divided into</hi> 1000 <hi>e<g ref="char:EOLhyphen"/>quall parts, the diſtance betwixt each hundred part thereof being ſuppoſed to be divided into ten parts</hi>) <hi>repair to the Table of Logarithmes, and therein ob<g ref="char:EOLhyphen"/>ſerving the firſt five figures of the Loga<g ref="char:EOLhyphen"/>rithme of</hi> 1001, <hi>beſides the Characteri<g ref="char:EOLhyphen"/>ſtique or Index</hi> (viz. 00043) <hi>take with your compaſſes the diſtance from the be<g ref="char:EOLhyphen"/>ginning of your Scale of equall parts to the ſaid</hi> 43; <hi>this done, if you applie that extent of the compaſſes towards the right hand from the beginning of your intended Scale of Numbers, the moveable point of the compaſſes will fall upon the firſt tenth of that Scale: In like manner, by the firſt five figures of the Logarithme of</hi> 1002, <hi>beſides the Index</hi> (viz. 00086) <hi>you may mark out the ſecond tenth of the ſame Scale, and ſo conſequently all the reſt in their due order.</hi>
+               </p>
+               <p>
+                  <hi>Example,</hi> If it were propounded to make a Scale of Numbers equall to this whereof we treat; this Scale be<g ref="char:EOLhyphen"/>ing intirely taken together, as one continued Scale, according to the
+<pb n="9" facs="tcp:106347:12"/>ninth Rule aforegoing) it conteins in length 75 feet, which amount to 900 Inches, whereof the hundred part is nine Inches; wherefore, having pre<g ref="char:EOLhyphen"/>pared a Scale nine Inches long, as is above directed, I take off with my com<g ref="char:EOLhyphen"/>paſſes the parts 43, which extent being applied from the beginning of the Scale of Numbers towards the right hand, the moveable point will fall up<g ref="char:EOLhyphen"/>on the firſt tenth of the firſt hundred of that Scale, juſt under the letter Z; ſo likewiſe if I again take off upon the Scale of equall parts the figures 86, and apply them from the beginning of the Scale of Numbers, as before; that extent will mark out the ſecond tenth of the ſame Hundred juſt under the letter <hi>X.</hi> In like manner alſo may you proceed, untill you have deſcribed all the diviſions of the Scale of Numbers, as you ſee here drawn upon this In<g ref="char:EOLhyphen"/>ſtrument.</p>
+               <p>This may ſuffice to have ſpoken of the ſubſtantiall part, or Body of the Table it ſelfe; in the next place fol<g ref="char:EOLhyphen"/>lowes the circumſtantiall part, or Ap<g ref="char:EOLhyphen"/>pendants
+<pb n="10" facs="tcp:106347:13"/>thereof to be handled.</p>
+               <p n="13">XIII. <hi>The Appendants of the Table are either externall, and placed without it; or internall, and placed within it.</hi>
+               </p>
+               <p n="14">XIV. <hi>Thoſe placed without it are either ſo placed at the top above it, or on each ſide thereof,</hi> viz. <hi>at the ends of the Fractions.</hi>
+               </p>
+               <p n="15">XV. <hi>The Appendant placed at the top above it is the whole length of the Table divided into</hi> 36 <hi>equall parts, numbered by</hi> 1, 2, 3, <hi>&amp;c. to</hi> 36, <hi>and ſigned by ſix Alphabets, each of them conſiſting of ſix letters,</hi> viz. <hi>A, B, C, D, E, and F. And all theſe Alphabets taken together, are bereafter (for diſtinction ſake) called the Top-rank of Alphabets.</hi>
+               </p>
+               <p n="16">XVI. <hi>The two ends of this Top-rank ought to be conceived to joyn interchan<g ref="char:EOLhyphen"/>gably to each other, in like manner as if the Alphabets and Letters were placed in a Circle.</hi>
+               </p>
+               <p>For <hi>Example;</hi> If <hi>B</hi> in the fourth Al<g ref="char:EOLhyphen"/>phabet were propounded, and I were to account from that letter four Alpha<g ref="char:EOLhyphen"/>bets and three letters towards the right hand: The letter <hi>A</hi> in the fift Alpha<g ref="char:EOLhyphen"/>bet
+<pb n="11" facs="tcp:106347:13"/>makes one Alphabet, and <hi>A</hi> in the ſixt Alphabet is the ſecond Alphabet; but now becauſe in proceeding to ac<g ref="char:EOLhyphen"/>count another Alphabet, I ſhall go be<g ref="char:EOLhyphen"/>yond the right end of the line; for the third Alphabet I take <hi>A</hi> in the firſt Al<g ref="char:EOLhyphen"/>phabet; and for the fourth I take <hi>A</hi> in the ſecond Alphabet; and ſo have I all the four Alphabets demanded: And then I account three letters from the laſt <hi>A</hi> taken, which leads me to the let<g ref="char:EOLhyphen"/>ter <hi>D</hi> in the ſaid ſecond Alphabet, be<g ref="char:EOLhyphen"/>ing the letter required. In like man<g ref="char:EOLhyphen"/>ner, if I were to proceed towards the left hand, and <hi>C</hi> in the ſecond Alpha<g ref="char:EOLhyphen"/>bet were the term given, from whence I am to account three Alphabets and five letters; <hi>D</hi> in the firſt Alphabet is the firſt Letter in that account, <hi>D</hi> in the laſt Alphabet is the ſecond, and <hi>D</hi> in the fift Alphabet is the third; from which if I account five letters the ſame way, <hi>viz.</hi> towards the left hand, at laſt I ſhall fall upon <hi>E</hi> in the fourth Alpha<g ref="char:EOLhyphen"/>bet, which is the letter required.</p>
+               <p n="17">XVII. <hi>The Appendants placed on each ſide of the Table, are ſo placed on
+<pb n="12" facs="tcp:106347:14"/>the right hand, or on the left.</hi>
+               </p>
+               <p n="18">XVIII. <hi>That placed on the right hand is another like rank of Alphabets, which is hereafter called the ſide-rank of Alphabets.</hi>
+               </p>
+               <p n="19">XIX. <hi>The two ends alſo of this ſide-rank ought to be conceived to joyne interchangably to each other, as thoſe of the top-rank.</hi>
+               </p>
+               <p>For <hi>Example,</hi> If <hi>D</hi> in the third Al<g ref="char:EOLhyphen"/>phabet were propounded, and it be demanded from thence to account downwards five Alphabets and four let<g ref="char:EOLhyphen"/>ters; deſcending downwards, I finde <hi>C</hi> in the fourth Alphabet to be the firſt; <hi>C</hi> in the fifth, the ſecond; <hi>C</hi> in the ſixth, the third; and then <hi>C</hi> in the firſt Alphabet is the fourth; and <hi>C</hi> in the ſecond Alphabet is the fifth; from whence if I account four letters, at laſt I fall upon <hi>A</hi> in the third Alphabet, which is the letter required: ſo like<g ref="char:EOLhyphen"/>wiſe if <hi>E</hi> in the ſecond Alphabet be given, and it be required to account upwards four Alphabets and three let<g ref="char:EOLhyphen"/>ters; firſt, <hi>F</hi> in the firſt Alphabet is the firſt; <hi>F</hi> in the laſt Alphabet is the ſe<g ref="char:EOLhyphen"/>cond;
+<pb n="13" facs="tcp:106347:14" rendition="simple:additions"/>
+                  <hi>F</hi> in the fifth Alphabet is the third; and <hi>F</hi> in the fourth is the fourth; from whence I account three Letters upwards, which guides me to the let<g ref="char:EOLhyphen"/>ter <hi>C,</hi> in the ſaid fourth Alphabet, be<g ref="char:EOLhyphen"/>ing the letter deſired.</p>
+               <p n="20">XX. <hi>The Appendant placed on the left hand is nothing elſe but a rank of Numbers, expreſſing the three figures of the firſt Hundred of every Fraction re<g ref="char:EOLhyphen"/>ſpectively,</hi> and ſerveth for the more rea<g ref="char:EOLhyphen"/>die finding out of numbers upon the Scale, as ſhall be more clearly taught hereafter.</p>
+               <p n="21">XXI. <hi>The Interval appendants placed within the Table are either Alphabets or Parallels: The Alphabets are nothing elſe but the top-rank of Alphabets ten times repeated in the body of the Table: The Parallels are certain pricked lines, which croſſe one another at right angles, and are either Perpendiculars or Tranſ<g ref="char:EOLhyphen"/>verſals.</hi>
+               </p>
+               <p n="22">XXII. <hi>The Perpendiculars are prick<g ref="char:EOLhyphen"/>ed lines drawn downwards through the Bodie of the Table from every diviſion of the top-rank of Alphabets.</hi>
+               </p>
+               <pb n="14" facs="tcp:106347:15"/>
+               <p n="23">XXIII. <hi>The ſpaces comprehended betwixt every two perpendiculars are called Intervals.</hi>
+               </p>
+               <p n="24">XXIV. <hi>The Tranſverſals are alſo pricked lines drawn under the top-rank, and likewiſe under every Fraction re<g ref="char:EOLhyphen"/>ſpectively, whereof that placed under the top-rank is called the Chief Tranſverſall:</hi> And each of thoſe Tranſverſals placed under the Fractions reſpectively, is termed the Tranſverſall of the Fracti<g ref="char:EOLhyphen"/>on, under which it is ſo placed; and therefore the right end of each of them is to be conceived to joyn with the left of the next under it; as alſo the left end of each of them to joyn with the right end of that next above it: In like manner, as the Fractions are ſaid to do in the ninth Rule aforegoing.</p>
+               <p n="25">XXV. <hi>The parts of the Tranſverſals comprehended in the Intervals betwixt every two of the Perpendiculars are by points divided into ſix equall parts, cal<g ref="char:EOLhyphen"/>led</hi> Digits, <hi>and each of thoſe ſix parts are again ſuppoſed to be ſub-divided into ſix other equall parts, termed</hi> Minimes.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="15" facs="tcp:106347:15"/>
+               <head>
+                  <hi>CHAP. II.</hi> Numeration upon the Scale of Numbers.</head>
+               <p n="1">I. <hi>THus far the deſcription and con<g ref="char:EOLhyphen"/>ſtruction of this Inſtrument; the uſe followes, which conſiſts in Numera<g ref="char:EOLhyphen"/>tion and Application.</hi>
+               </p>
+               <p n="2">II. <hi>Numeration upon the Table teach<g ref="char:EOLhyphen"/>eth how to finde out numbers, and diſco<g ref="char:EOLhyphen"/>ver diſtances thereupon; and it is per<g ref="char:EOLhyphen"/>formed either upon the Scale of Numbers, or upon the Alphabets and Tranſver<g ref="char:EOLhyphen"/>ſals.</hi>
+               </p>
+               <p n="3">III. <hi>Numeration upon the Scale of Numbers is to finde thereupon any num<g ref="char:EOLhyphen"/>ber propounded, or any point thereof be<g ref="char:EOLhyphen"/>ing aſſigned, to diſcover the figures or number repreſented at that point.</hi>
+               </p>
+               <p n="4">IV. <hi>If a number conſiſting of five places or more be given, to finde the point upon the Table, where that number is re<g ref="char:EOLhyphen"/>preſented; proceed thus: Firſt, finde
+<pb n="16" facs="tcp:106347:16"/>amongſt the numbers placed at the left ends of the Fractions the three firſt fi<g ref="char:EOLhyphen"/>gures of the number given, or if you can<g ref="char:EOLhyphen"/>not find the three figures exactly, take that nu<g ref="char:cmbAbbrStroke">̄</g>ber amongst them, which being leſs, cometh neereſt unto them; this done, up<g ref="char:EOLhyphen"/>on that Fraction make ſearch for the Hundred, which begins with thoſe three firſt figures of the number propounded, and for the fourth figure count ſo many Tenths of that hundred, &amp; for the fifth fi<g ref="char:EOLhyphen"/>gure ſo many units of the tenth laſt taken; all this performed, that place is the point, at which the nu<g ref="char:cmbAbbrStroke">̄</g>ber propounded is repreſented.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi> let 11422 be the number given to be found upon the Scale of Numbers; here 114, the three firſt fi<g ref="char:EOLhyphen"/>gures thereof are found at the left end of the third Fraction, which leads me to the firſt hundred of that Fraction, ſigned by the ſame figures; then for 2, the fourth figure of the number given, I count 2 tenths fro<g ref="char:cmbAbbrStroke">̄</g> the beginning of that hundred, w<hi rend="sup">ch</hi> brought me to the ſecond tenth of that hundred: &amp; for 2, the laſt figure of the number given, I count 2 units of the tenth laſt taken, which
+<pb n="17" facs="tcp:106347:16"/>leads me to the point of the Scale of Numbers placed juſt above the letter <hi>q,</hi> which point is the place where the number propounded is repreſented up<g ref="char:EOLhyphen"/>on the ſame Scale: ſo likewiſe, if the number given did conſiſt of more pla<g ref="char:EOLhyphen"/>ces than five, it would be repreſented at the ſame point, as 11422004500, or 1142212974 are alſo there repreſented: But if the number given were 32292, becauſe I cannot finde exactly the three firſt figures thereof at the left ends of the Fractions, as before, I take 317, which being leſſe, comes neereſt unto them, and guides me to the 19 Fraction upon which finding the three firſt fi<g ref="char:EOLhyphen"/>gures of the number given at the ſixth hundred thereof, I take thoſe three fi<g ref="char:EOLhyphen"/>gures to be there repreſented, and pro<g ref="char:EOLhyphen"/>ceeding, as before, I finde the laſt num<g ref="char:EOLhyphen"/>ber given to be repreſented upon that 19 Fraction at the point placed juſt a<g ref="char:EOLhyphen"/>bove the letter <hi>g.</hi> Again, if the number propounded were 32205, you ſhall finde it repreſented upon the ſame 19 Fraction juſt above the letter <hi>y,</hi> for (in this caſe) there being a cypher in the
+<pb n="18" facs="tcp:106347:17"/>place of tenths, no tenth is to be taken in the diſcovery of that or the like num<g ref="char:EOLhyphen"/>ber upon the Scale.</p>
+               <p n="5">V. <hi>If a number conſiſting of four places, or (over and beſides the four pla<g ref="char:EOLhyphen"/>ces) having a cipher in the fifth place, be propounded, it may be diſcovered upon the Scale in like manner as the firſt four figures are found out by the laſt Rule:</hi> So if 1142, or 114200000 were given, they would be both repreſented upon the third Fraction at the ſecond tenth of the firſt hundred, as before, and if 32290000 or 322905321 were given they would be found upon the 19 Fra<g ref="char:EOLhyphen"/>ction at the ninth tenth of the ſixt hun<g ref="char:EOLhyphen"/>dred of that Fraction.</p>
+               <p n="6">VI. <hi>If a number conſiſting of three places, or (beſides the three places) ha<g ref="char:EOLhyphen"/>ving ciphers in the fourth and fifth places thereof, were propounded, it is repreſent<g ref="char:EOLhyphen"/>ed at the hundred, ſigned by the ſame three figures:</hi> So 114, or 11400, or 11400000 or 114005321 are all-repreſented at the firſt hundred upon the third Fraction; and 322, or 322000, or 32200273 are found at the ſixth hundred of the 19 Fraction.</p>
+               <pb n="19" facs="tcp:106347:17"/>
+               <p n="7">VII. <hi>If a number conſiſting of two places, or (beſides the two places) having ciphers in the third, fourth, or fifth places thereof were propounded, it is re<g ref="char:EOLhyphen"/>preſented at the hundred, which hath thoſe two figures and a cipher annexed unto them:</hi> So if 13, or 13000, or 130000, or 1300000, or 13000734 were given, they are all repreſented at the firſt hundred of the fifth Fraction.</p>
+               <p n="8">VIII. <hi>If a number of one figure or place, or (beſides that one place) having ciphers in the ſecond, third, fourth, or fift places thereof, were given, it would be repreſented at the hundred, which is ſigned by that one figure, and two ciphers annexed unto it:</hi> So if 1, or 10, or 100 or 1000, or 10000, or 100000, or 10000426, &amp;c. were aſſigned, they would be all repreſented at the begin<g ref="char:EOLhyphen"/>ning of the Scale, ſigned by 100: ſo likewiſe if 3, or 30, or 300, or 3000, or 30000, or 300000, or 30000342 were propounded, they would be found at the fourth hundred of the 19 Fraction, &amp;c.</p>
+               <p n="9">IX. <hi>When the number propounded is
+<pb n="20" facs="tcp:106347:18"/>mixt, reduce the broken part thereof to a Decimall Fraction, and then finde the whole upon the Scale, as if it were a whole number:</hi> So 5 3/4 being given, and the broken part thereof (<hi>viz.</hi> 3/4) redu<g ref="char:EOLhyphen"/>ced to a decimall, <hi>viz.</hi> 75; the intire number given after ſuch reduction will be found 5.75, which is repreſented at the 13 hundred of the 28 Fraction: In like manner, 12 <hi>l.</hi> 13 <hi>s.</hi> 5 <hi>d.</hi> being pro<g ref="char:EOLhyphen"/>pounded, and 13 <hi>s.</hi> 5 <hi>d.</hi> (the broken part thereof) reduced to the Decimall 6708, that intire number will ſtand thus, 12.6708, which is repreſented at the ſeventh tenth of the fift hundred of the fourth Fraction.</p>
+               <p>The great uſe and benefit of reducing ordinary broken numbers to Decimals is now ſo commonly known to moſt Ar<g ref="char:EOLhyphen"/>tiſts, that I conceive it not neceſſary here to inſiſt long thereupon: Only I will here inſert certain Tabular Scales, which may ſerve for the ready reducti<g ref="char:EOLhyphen"/>on of compound Fractions (<hi>viz.</hi> of <hi>Money, Weight, Meaſure,</hi> and <hi>Time,</hi> which uſually incumber the Practitio<g ref="char:EOLhyphen"/>ner)
+<pb n="21" facs="tcp:106347:18"/>to <hi>Decimals.</hi>
+               </p>
+               <p>Upon theſe Tabular Scales you ſhall finde the compound Fractions deſcri<g ref="char:EOLhyphen"/>bed in the upper Scales thereof, and in the lower their reſpective Decimals; the firſt of them (being broken into ten equall parts or Fractions) reduceth the Fractions of <hi>Money</hi> &amp; <hi>Troy-weight,</hi> the Integers thereof being a pound ſterling for <hi>Money,</hi> and an ounce <hi>Troy</hi> for <hi>Troy-weight:</hi> The ſecond (broken off into two Fractions onely) reduceth <hi>Avoirdupoiz</hi> Great weight: The third <hi>Avoirdupoiz</hi> Little weight, and all o<g ref="char:EOLhyphen"/>ther meaſures or weights, which divide themſelves into halves, quarters, &amp;c. And the fourth is made for the reducti<g ref="char:EOLhyphen"/>on of Time, Dozens, and Inches: ſo upon the firſt Tabular Scale the Deci<g ref="char:EOLhyphen"/>mall of 8 <hi>s.</hi> 3 <hi>d.</hi> 3 <hi>q.</hi> is .4156, and the Decimall of nine peny weight and ſe<g ref="char:EOLhyphen"/>ven grains is .4646. Alſo upon the ſe<g ref="char:EOLhyphen"/>cond, the Decimall of 3 quarters of <hi>C.</hi> 8 <hi>lb.</hi> and 7 <hi>ounces</hi> is .825. The like re<g ref="char:EOLhyphen"/>duction may alſo be made upon the o<g ref="char:EOLhyphen"/>ther two Tabular Scales, according to their ſeverall and reſpective diviſions.
+<pb n="22" facs="tcp:106347:19"/>Howbeit, if you pleaſe yet to have a more compendious way for the redu<g ref="char:EOLhyphen"/>ction of the Fractions of <hi>Money</hi> and <hi>Troy-weight,</hi> you may do it by the firſt of the double Scales, drawn at the left end of the Table of Proportion, by which pence and farthings (for money) and grains and half grains (for Troy-weight) may be readily reduced; there being no great difficulty in reducing ſhillings and peny-weights to Deci<g ref="char:EOLhyphen"/>mals, as is well known to all ſuch as are competently acquainted with the nature of Fractions. The other little Scales there alſo placed (being for A<g ref="char:EOLhyphen"/>voirdupoiz weight and Time) give you the Decimall of one quarter, which is to be added to the Decimals of one quarter (<hi>viz.</hi> 25) or of two quarters (<hi>viz.</hi> 50) or of three quarters (<hi>viz.</hi> 75) as the queſtion may be propounded.</p>
+               <p n="10">X. <hi>When the term propounded is a Fraction or broken number, convert it to a Decimall, and then finde it upon the Scale of Numbers, as if it were a whole number:</hi> So 1/4 or 25 is found at the fixt hundred of the 15 Fraction, and
+<pb n="23" facs="tcp:106347:19"/>8 <hi>s.</hi> 3 <hi>d.</hi> 3 <hi>q.</hi> or 4156 at the ſixth tenth of the ſeventh hundred of the 23 Fraction.</p>
+               <p n="11">XI. <hi>When a point upon the Scale of Numbers is aſſigned, to finde out the number repreſented by that point, invert the rules aforegoing, &amp; ſo ſhall you diſco<g ref="char:EOLhyphen"/>ver the number or figures you look for.</hi> So if the point <hi>q</hi> were given upon the third Fraction, the number or figures repreſented by it will be found 11422: Alſo if the point <hi>g</hi> were aſſigned upon the 19 Fraction, the number or figures repreſented by it are 32292, as appears by the two examples of the fourth Rule aforegoing. The like alſo may be ſaid of all the other examples above in this Chapter produced.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="24" facs="tcp:106347:20"/>
+               <head>
+                  <hi>CHAP. III.</hi> Numeration upon the Alpha<g ref="char:EOLhyphen"/>bets and Tranſverſals.</head>
+               <p n="1">I. <hi>Numeration upon the Alphabets and Tranſverſals, teacheth how to diſcover diſtances betwixt points or termes aſſigned thereupon.</hi>
+               </p>
+               <p n="2">II. <hi>Three letters in either rank of Al<g ref="char:EOLhyphen"/>phabets being propounded, to finde a fourth, which ſhall bear like diſtance from the third, that the ſecond bears from the firſt; proceed thus, Count the intire Alphabets and Letters, which are inter<g ref="char:EOLhyphen"/>cepted betwixt the letters of the firſt and ſecond termes, then from the letter of the third term account as many intire Alpha<g ref="char:EOLhyphen"/>bets and Letters the ſame way; that done, the letter placed next beyond the laſt letter ſo accounted, is the letter required.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi> In the top-rank of Alpha<g ref="char:EOLhyphen"/>bets let <hi>E</hi> in the firſt Alphabet, A in the third, and <hi>B</hi> in the fourth be given: In
+<pb n="25" facs="tcp:106347:20"/>this caſe I place three pointed Cheſſe<g ref="char:EOLhyphen"/>men in the Chief Tranſverſal, <hi>viz.</hi> one under <hi>E,</hi> another under <hi>A,</hi> and a third under <hi>B;</hi> This done, and I find<g ref="char:EOLhyphen"/>ing one Alphabet and one letter be<g ref="char:EOLhyphen"/>twixt the two firſt termes <hi>E</hi> and <hi>A,</hi> and accounting the like from <hi>B</hi> in the fourth Alphabet towards the right hand, at laſt I fall upon <hi>D</hi> in the fift Alphabet, which is the letter required, where I alſo place another pointed Cheſſe<g ref="char:EOLhyphen"/>man: So if <hi>C</hi> in the third Alphabet, <hi>D</hi> in the fift, and <hi>B</hi> in the ſixt be pro<g ref="char:EOLhyphen"/>pounded, <hi>C</hi> in the ſecond Alphabet will be the fourth term you look for, accor<g ref="char:EOLhyphen"/>ding to the 16 rule of the firſt Chapter. Again, if <hi>F</hi> in the fift Alphabet, <hi>C</hi> in the third, and <hi>D</hi> in the firſt be given: In this caſe, working towards the left hand, the fourth term will be <hi>A</hi> in the fift Alphabet: likewiſe if <hi>B</hi> in the third Alphabet be the firſt term, <hi>D</hi> in the firſt be the ſecond, and <hi>C</hi> in the fourth be the third term, the fourth term will be <hi>E</hi> in the ſecond Alphabet, &amp;c. After the ſame manner, in the ſide-rank of Al<g ref="char:EOLhyphen"/>phabets three letters being given, a
+<pb n="26" facs="tcp:106347:21"/>fourth may be diſcovered by this Rule and the 19 Rule of the firſt Chapter, which being plain, I omit to exempli<g ref="char:EOLhyphen"/>fie: And in all theſe Caſes and the like, it mattereth not whether you ac<g ref="char:EOLhyphen"/>count the Alphabets and letters from the firſt term to the ſecond, or to the third; as in the laſt example, if I ac<g ref="char:EOLhyphen"/>count an Alphabet from the firſt term to the third towards the right hand, and then the like from the ſecond term the ſame way, the fourth term will then alſo fall at <hi>E</hi> in the ſecond Alphabet, as before: The like experiment you ſhall alſo find in the ſide-rank, &amp;c. In like manner, if two letters were given, and it be deſired to finde a third, which may bear like diſtance from the ſecond that the ſecond bears from the firſt; In this caſe alſo count as many letters from the ſecond towards the third, as you find intercepted betwixt the firſt and the ſecond, and ſo ſhall you like<g ref="char:EOLhyphen"/>wiſe have your deſire. For <hi>example,</hi> if <hi>E</hi> in the firſt Alphabet, and <hi>A</hi> in the third were given, the third letter will fall to be <hi>C</hi> in the fourth Alphabet, &amp;c.
+<pb n="27" facs="tcp:106347:21"/>The like experiment may be alſo acted upon the ſide rank, as may plainly appear without further inſtru<g ref="char:EOLhyphen"/>ction.</p>
+               <p n="3">III. <hi>When three points are aſſigned upon the Chief tranſverſal, to finde out a fourth, which may bear the like diſtance from the third, that the ſecond beares from the firſt, proceed thus; Having placed (as before) a Cheſſeman at each of the points given, and (by the Rule aforegoing) found the letter un<g ref="char:EOLhyphen"/>der which the fourth term is likely to fall, and there alſo placed another Cheſſeman, as before; draw back that laſt Cheſſeman quite thorow the laſt letter ſo counted, and place it upon the perpendicular, where that laſt letter begins; this done, obſerve how many intire digits are comprehended betwixt the firſt given point, and the next perpendicular towards the ſecond point, as alſo how many ſuch digits are contained betwixt the ſecond given point, and the next perpendicular to<g ref="char:EOLhyphen"/>wards the firſt given point, and to theſe
+<pb n="28" facs="tcp:106347:22"/>adde the intire digits that are found be<g ref="char:EOLhyphen"/>twixt the third given point, and the next perpendicular towards the ſame hand, ac<g ref="char:EOLhyphen"/>cording to which the digits of the ſecond point were taken off. All this performed, if you adde all theſe three numbers of digits together, and according to that aggregate advance the laſt Cheſſeman for<g ref="char:EOLhyphen"/>ward again, and proceed in like manner with the Minimes, as before with the di<g ref="char:EOLhyphen"/>gits, advancing alſo that Cheſſeman for<g ref="char:EOLhyphen"/>ward, according to the aggregate of the Minimes, over and above the digits ſo found, you will at laſt fall upon the fourth point required.</hi>
+               </p>
+               <p>
+                  <hi>Example,</hi> Admit the firſt point or term to be given at four digits, and four Minimes of the third letter in the firſt Alphabet (being <hi>C) viz.</hi> at <hi>a;</hi> the ſe<g ref="char:EOLhyphen"/>cond at four digits and four Minimes of the laſt letter in the ſecond Alphabet (being <hi>F) viz.</hi> at <hi>b;</hi> and the third at four digits and four Minimes of the third letter in the fourth Alphabet (being <hi>C) viz.</hi> at <hi>c,</hi> and let it be deſired to finde a fourth point, which ſhall bear like diſtance from <hi>c,</hi> that <hi>b</hi> bears
+<pb n="29" facs="tcp:106347:22"/>from <hi>a.</hi> Here, by the rule aforegoing, I finde <hi>F</hi> in the fift Alphabet to be the letter where the Cheſſeman of the term inquired will reſt, and therefore (accor<g ref="char:EOLhyphen"/>ding to this Rule) draw it back and ſet it upon the 29 perpendicular,, <hi>viz.</hi> at the beginning of the laſt of the intire letters intercepted: This done, I obſerve one intire digit betwizt the point <hi>a,</hi> and the nezt perpendicular towards <hi>b,</hi> ſigned by 4, and four digits betwixt <hi>b,</hi> and the next perpendicular towards <hi>a,</hi> ſigned by 12, theſe being added together make five, unto which I alſo adde four for the number of intire digits contained be<g ref="char:EOLhyphen"/>twixt <hi>c,</hi> and the perpendicular ſigned by 21, all rheſe added together make nine, according to which I advance the Cheſ<g ref="char:EOLhyphen"/>man of the fourth point or term (from the perpendicular 29, where I laſt pla<g ref="char:EOLhyphen"/>ced it) to the letter <hi>e,</hi> to the end there may be nine intire digits comprehended betwixt it and the place from whence I tooke it: Laſtly, having obſerved two minimes at <hi>a,</hi> four minimes at <hi>b,</hi> and four likewiſe at <hi>c,</hi> and added them to<g ref="char:EOLhyphen"/>gether, their ſumme is ten, according
+<pb n="30" facs="tcp:106347:23"/>to which I yet again advance the fourth Cheſſeman ten minimes forward, and ſo at laſt the point or term required will be found to reſide at the point <hi>d;</hi> ſo likewiſe, if <hi>d</hi> were the firſt term, <hi>c</hi> the ſecond, and <hi>b</hi> the third, the fourth term would fall at <hi>a;</hi> alſo if <hi>b</hi> were the firſt, <hi>c</hi> the ſecond, and <hi>d</hi> the third, the fourth term would then alſo fall at <hi>a,</hi> by going beyond the line, according to the 16 Rule of the firſt Chapter be<g ref="char:EOLhyphen"/>fore-cited. Again, if <hi>c</hi> were the firſt, <hi>b</hi> the ſecond, and <hi>a</hi> the third, the fourth term would be found at <hi>d,</hi> &amp;c. And here note, that the demonſtration of this Rule may be produced from the nature and properties of Arithmeticall proportion, which (for brevitie ſake) I leave to the further ſcrutinie of the Practitioner: In ſome caſes alſo the firſt and ſecond termes will fall out to be ſo neer together, that you may eaſily diſcover the like diſtance be<g ref="char:EOLhyphen"/>twixt the third and fourth termes upon view, without any farther trou<g ref="char:EOLhyphen"/>ble.</p>
+               <p n="4">IV. <hi>What hath been here (by the two
+<pb n="31" facs="tcp:106347:23"/>laſt Rules) practiſed upon the top-rank of Alphabets (with the Tranſverſals, Digits and Minimes thereunto belong<g ref="char:EOLhyphen"/>ing) may be likewiſe performed by the Alphabets repeated through the body of the Table, and their reſpective Tranſ<g ref="char:EOLhyphen"/>verſals, Digits and Minimes placed un<g ref="char:EOLhyphen"/>der the Fractions: And that, albeit the termes or points given are propounded up<g ref="char:EOLhyphen"/>on ſeverall Tranſverſals; ſo as the Tranſverſall, upon which the fourth term will fall, be alſo aſſigned.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi> Let the firſt term be given upon the tranſverſal of the fift Fra<g ref="char:EOLhyphen"/>ction at four digits and four minimes of the third Interval, ſigned by <hi>C, viz.</hi> at the point <hi>f,</hi> and the ſecond term upon the tranſverſal of the 19 Fraction at four digits and four mini<g ref="char:EOLhyphen"/>mes of the twelfth Interval, ſigned by <hi>F, viz.</hi> at the point <hi>g.</hi> And the third upon the tranſverſal of the 10 Fracti<g ref="char:EOLhyphen"/>on at four digits and four minimes of the 21 Interval, ſigned by <hi>C, viz.</hi> at the point <hi>h,</hi> and let the demand be to find a 4th. point upon the tranſverſal of the 24 Fraction, which may bear ſuch like
+<pb n="32" facs="tcp:106347:24"/>diſtance from the third point given, as the ſecond beares from the firſt.</p>
+               <p>Here firſt of all, having placed at each of the terms given a pointed Cheſſman, I finde (as in the firſt example of the laſt Rule) eight Intervals, (or rather one Alphabet and two letters) to be in<g ref="char:EOLhyphen"/>tercepted betwixt the firſt and ſecond termes, and therefore accounting as many (towards the ſame hand) from the third term, I find the fourth term to be likely to fall upon the Tranſverſal of the ſaid 24 Fraction in the 30 Inter<g ref="char:EOLhyphen"/>val, ſigned by <hi>F;</hi> where having pla<g ref="char:EOLhyphen"/>ced another pointed Cheſſeman, I bring it back to the beginning of the laſt ac<g ref="char:EOLhyphen"/>counted letter, and then proceeding with the digits and Minimes of the terms propounded, and advancing that fourth Cheſſeman accordingly (as in the firſt example of the laſt Rule) at laſt I diſcover the fourth term required to fall upon the Tranſverſal of the 24 Fraction at 4 digits and 4 Minimes of the ſaid 30 Interval, <hi>viz.</hi> at the point <hi>k;</hi> ſo likewiſe if <hi>k</hi> were the firſt term, <hi>h</hi> the ſecond, and <hi>g</hi> the third (work<g ref="char:EOLhyphen"/>ing
+<pb n="33" facs="tcp:106347:24"/>towards the left hand) <hi>f</hi> would be found to be the fourth, &amp;c.</p>
+               <p n="5">V. <hi>Having three points given upon three ſeverall tranſverſals, to diſcover the tranſverſall upon which the fourth term will fall, and alſo the point of that tranſverſall, where that fourth term will beare like diſtance from the third point, that the ſecond beares from the firſt: Ob<g ref="char:EOLhyphen"/>ſerve this direction, having placed (as be<g ref="char:EOLhyphen"/>fore) three Cheſſemen at the three given points, place likewiſe three other plain Cheſſemen upon the ſide rank of Alpha<g ref="char:EOLhyphen"/>bets, at the right ends of the fractions or Tranſverſals, whereupon the points gi<g ref="char:EOLhyphen"/>ven are ſcituate reſpectively: This done (by the ſecond Rule of this Chapter) find upon the ſaid ſide-rank a fourth term to the three given, which will lead you to the Tranſverſal upon which the fourth term required is to be found; then pro<g ref="char:EOLhyphen"/>ceeding, according to the directions of the laſt Rule, you will diſcover the fourth point or term you look for.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi> If <hi>f, g,</hi> and <hi>h,</hi> (the points of the firſt example of the laſt Rule) be given, <hi>viz.</hi> upon the 5, 19, and 10
+<pb n="34" facs="tcp:106347:25"/>Fractions, as before; In this Caſe, I place a plain Cheſſeman at the right end of the fift Fraction, another at the ſame end of the tenth Fraction, and a third at the like end of the nineteenth Fraction, and (in working downwards) diſcover upon that ſide-rank of Alpha<g ref="char:EOLhyphen"/>bets (by the ſecond Rule of this Cha<g ref="char:EOLhyphen"/>pter) a fourth term correſpondent to the other three given terms, which fourth term leads me to the 24 Fra<g ref="char:EOLhyphen"/>ction and tranſverſal, upon which the fourth term in queſtion is ſcituate. And therefore proceeding thereupon, as in the firſt example of the laſt Rule, you will find the fourth term required (in this example) to fall upon the tranſ<g ref="char:EOLhyphen"/>verſal of that 24 Fraction, at four di<g ref="char:EOLhyphen"/>gits and four minimes of the 30 Inter<g ref="char:EOLhyphen"/>val, <hi>viz.</hi> at the point <hi>k,</hi> as before. In like manner, if <hi>k</hi> were the firſt term, <hi>h</hi> the ſecond, and <hi>g</hi> the third, (in mount<g ref="char:EOLhyphen"/>ing upwards upon the ſide rank, and proceeding upon the Table towards the left hand, as I did before towards the right) the fourth term will (in that caſe) be found to fall upon the tranſ<g ref="char:EOLhyphen"/>verſal
+<pb n="35" facs="tcp:106347:25"/>of the fift Fraction at four digits and four minimes of the third Interval ſigned by <hi>C, viz.</hi> at the point <hi>f.</hi> So if <hi>g</hi> be the firſt term, <hi>h</hi> the ſecond, and <hi>k</hi> the third (the Fraction or tranſverſal of the fourth term being found upon the ſide rank, and I guiding my work upon the Table towards the right hand) the fourth term will fall upon the tranſverſal of the 15 Fraction at 4 digits and 4 minimes of the 3 Inter<g ref="char:EOLhyphen"/>val, ſigned by <hi>C, viz.</hi> at the point <hi>l,</hi> Howbeit you are not to take that for the true point, but (becauſe in that caſe you go beyond the Table towards the right hand, and for that the right end of the 15 Fraction is conceived to joyn with the left end of the 16 Fraction, according to the directions of the 9, 16, and 25 Rules of the firſt Chapter) you are to take 4 digits and 4 minimes of the tranſverſal next under it in the ſame Interval, and ſo the true point required will be (in that caſe) found to reſide upon the tranſverſal of the 16 Fraction at 4 digits and 4 minimes of the ſaid third Interval, <hi>viz.</hi> at the point <hi>m.</hi> In like manner, if the three termes
+<pb n="36" facs="tcp:106347:26"/>propounded, were <hi>h, g,</hi> and <hi>f,</hi> and a fourth term be required anſwerable un<g ref="char:EOLhyphen"/>to them: In that caſe (the proper Fra<g ref="char:EOLhyphen"/>ction or Tranſverſal of that 4th term being diſcovered upon the ſide rank, &amp; I proceeding towards the left hand) the 4th term will fall upon the Tranſver<g ref="char:EOLhyphen"/>ſal of the 14 Fraction at 4 digits and 4 Minimes, of the 30 Interval, <hi>viz.</hi> at the point <hi>n.</hi> Howbeit (as in the laſt afore<g ref="char:EOLhyphen"/>going example) you are not to take that for the true point; but in that caſe (becauſe you go beyond the Table to<g ref="char:EOLhyphen"/>wards the left hand, and for that the left end of the 14 Fraction is conceived to joyn with the right end of the 13 Fraction, according to the ſaid 9, 16, and 25 Rules of the firſt Chapter) you are (inſtead thereof) to take 4 digits and 4 Minimes of the tranſverſal next above it in the ſame interval, and ſo true point required will be found to reſt upon the tranſverſal of the 13 Fraction at 4 digits and 4 minimes of the ſaid 30 Interval, <hi>viz.</hi> at the point <hi>p.</hi> And here, give me leave (once for all) to inſert this direction, that in the motion
+<pb n="37" facs="tcp:106347:26"/>of a Cheſſeman upon the Table, when you are conſtrained to over-ſhoot the table either on the right or left hand, take the Fraction next to it, either a<g ref="char:EOLhyphen"/>bove or below it, <hi>viz.</hi> if on the right hand, then the Fraction below it, but if on the left hand, then that above it, as in the two laſt premiſed examples you finde it practiſed.</p>
+               <p>Again, if <hi>f</hi> be the firſt term, <hi>g</hi> the ſecond, and <hi>k</hi> the third, the fourth term will fall upon the third Fraction at 4 digits and 4 minimes of the third In<g ref="char:EOLhyphen"/>terval, <hi>viz.</hi> at the point <hi>q;</hi> and in that caſe you do not onely fall off at the lower end of the ſide-rank, taking it again at the top, but likewiſe overſhoot the table upon the right hand, and take it again upon the left, and (in that re<g ref="char:EOLhyphen"/>ſpect) take not the fraction whereunto you are directed by the fourth term found in the ſide-rank, but take the next under it: On the other ſide, if <hi>k</hi> were the firſt term, <hi>h</hi> the ſecond, and <hi>f</hi> the third, the fourth term will reſide upon the 27 Fraction at 4 digits and 4 minimes of the 30 Interval, <hi>viz.</hi> at the
+<pb n="38" facs="tcp:106347:27"/>point <hi>r.</hi> And (in that caſe alſo) you do not onely mount off at the top of the ſide rank, taking it again at the lower end, but likewiſe over-ſhoot the Ta<g ref="char:EOLhyphen"/>ble upon the left hand, and take it a<g ref="char:EOLhyphen"/>gain upon the right, and (in that re<g ref="char:EOLhyphen"/>gard alſo) take not the Fraction, unto which you are directed by the fourth term found in the ſide rank, but take the next above it, according to the di<g ref="char:EOLhyphen"/>rection of the afore-going exam<g ref="char:EOLhyphen"/>ples.</p>
+               <p n="6">VI. <hi>After the ſame manner may you alſo diſcover a third term to two termes propounded, ſave onely, that (in regard the ſecond term doth in a ſort in that caſe repreſent the two middle termes) you are to double the digits and minimes of the ſecond term, and then adde them to the digits and minimes of the firſt term, to the end, you may underſtand by that ſumme how far to advance the Cheſſeman of the laſt term.</hi>
+               </p>
+               <p>For <hi>example.</hi> Let <hi>f</hi> be the firſt term, and <hi>g</hi> the ſecond, and let a third term be deſired, here (Cheſſemen being pla<g ref="char:EOLhyphen"/>ced
+<pb n="39" facs="tcp:106347:27"/>at the terms given, and likewiſe upon the ſide rank at the ends of the Fractions, upon which they are re<g ref="char:EOLhyphen"/>ſpectively ſcituate) I find the third term to fall upon the 33 Fraction; and then obſerving eight Letters or Inter<g ref="char:EOLhyphen"/>vals to be intercepted betwixt the firſt and ſecond termes, accounting as ma<g ref="char:EOLhyphen"/>ny from the ſecond towards the third, I find the Cheſſeman of the third term to be likely to fall upon the ſaid thir<g ref="char:EOLhyphen"/>ty third Fraction in the one and twen<g ref="char:EOLhyphen"/>tieth Interval, ſigned by <hi>C,</hi> and there<g ref="char:EOLhyphen"/>fore draw that Cheſſeman back to the twenty perpendicular upon the ſame thirty third Fraction: this done, and I obſerving one digit at the firſt term, and four at the ſecond, I double thoſe four, and adde them to the one, all which amounting to nine, I ad<g ref="char:EOLhyphen"/>vance the Cheſſeman of the laſt term accordingly, ſetting it in the middle of the one and twentieth In<g ref="char:EOLhyphen"/>terval; then finding alſo at the firſt term two minimes, and four at the ſecond, I likewiſe double the
+<pb n="40" facs="tcp:106347:28"/>four, and adde them to the 2, all which amount to 10, according to which ſumme I advance the Cheſſeman of the third term ten minimes farther, and ſo at laſt I finde the ſaid third term to fix upon the 33 Fraction at four digits and four minimes of the 21 Interval, which is the term required. And if at any time in working queſtions of this kinde you happen to deſcend below, or aſcend above the ſide-rank, or other<g ref="char:EOLhyphen"/>wiſe overſhoot the table either on the right hand, or left, you are (in ſuch ca<g ref="char:EOLhyphen"/>ſes) to uſe the Rules aforegoing, but ſtill doubling the digits and minimes of the ſecond term, as in the premiſed example. In like manner may you al<g ref="char:EOLhyphen"/>ſo (if you pleaſe) diſcover a fourth term to thoſe three known, and ſo (con<g ref="char:EOLhyphen"/>ſequently) a fift, ſixt, ſeventh, &amp;c. <hi>in infinitum.</hi>
+               </p>
+               <p n="7">VII. <hi>A point upon any one of the tranſverſals being given, to find halfe the diſtance betwixt that point, and the beginning or left end of that tranſverſal; follow this direction: Take half the
+<pb n="41" facs="tcp:106347:28"/>Alphabets, half the letters, half the di<g ref="char:EOLhyphen"/>gits, and half the minimes intercepted be<g ref="char:EOLhyphen"/>twixt the beginning of that line and the point given, and ſo ſhall you have your deſire.</hi> So if the point <hi>c</hi> upon the chief tranſverſal were propounded, half the diſtance betwixt the beginning or left end thereof, and that point will be found at two digits and two minimes, of the letter <hi>E</hi> in the ſecond Alphabet, <hi>viz.</hi> at the point <hi>S,</hi> for, in this caſe, there being three Alphabets and two letters intercepted betwixt the begin<g ref="char:EOLhyphen"/>ning of that traverſal, and the letter wherein the point given is ſcituate, I take one Alphabet and three letters for the three Alphabets, and one letter more for the two odde letters; then for the four digits I take two digits, and for the four minimes, two minimes; all which being accounted from the be<g ref="char:EOLhyphen"/>ginning of that tranſverſal will fall at <hi>S,</hi> the point required: the ſame may likewiſe be acted upon any of the repeated Alphabets and tranſverſals in the body of the table.</p>
+               <p n="8">VIII. <hi>
+                     <g ref="char:V">Ʋ</g>pon any one of the Tranſ<g ref="char:EOLhyphen"/>verſals,
+<pb n="42" facs="tcp:106347:29"/>to diſcover the third part of the diſtance betwixt the beginning or left end thereof, and any point thereupon pro<g ref="char:EOLhyphen"/>pounded: this is the Rule; Take the third part of the diſtance in Alphabets, letters, digits, and minimes, and ſo ſhall you attain the point or term required.</hi> So the point <hi>c</hi> upon the chief tranſverſal being again propounded, the point <hi>t</hi> will be third part of the diſtance inqui<g ref="char:EOLhyphen"/>red. For in liew of the three Alphabets I take one; for the third part of the two odde letters, I take four digits; for the four other digits I take one digit and two minimes. And for the four laſt minines I take one minime and ſome<g ref="char:EOLhyphen"/>what more, by which meanes <hi>t</hi> will be found at laſt the point ſonght for: Thus likewiſe you may be practiſed upon the repeated Alphabets and tranſver<g ref="char:EOLhyphen"/>ſals.</p>
+               <p n="9">IX. <hi>A Fraction of the Scale of Numbers being given, to finde upon the ſide rank of Alphabets the half diſtance betwixt it, and the firſt Fraction (in<g ref="char:EOLhyphen"/>cluding the firſt Fraction for one) pro<g ref="char:EOLhyphen"/>ceed in this mnnnner; firſt, having pla<g ref="char:EOLhyphen"/>ced
+<pb n="43" facs="tcp:106347:29"/>a plain Cheſſeman (without a point) at the right end of the Fraction given, obſerve whether the number of the Fra<g ref="char:EOLhyphen"/>ction next above it b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> even or odde; if even, then take half the ſumme thereof, and place another plain Cheſſeman at the right end of the Fraction next un<g ref="char:EOLhyphen"/>der that half ſumme: but if the num<g ref="char:EOLhyphen"/>ber be odde, neglecting the odde Fra<g ref="char:EOLhyphen"/>ction, proceed with the even number, as before, nnd ſo you ſhall accompliſh your deſire.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi> Let the Fraction ſign<g ref="char:EOLhyphen"/>ed at the right end thereof by 21 be given, and let the half diſtance betwixt it and the firſt Fraction be demanded. Here, the number above it is 20, whereof the half is 10; where<g ref="char:EOLhyphen"/>fore I taking a Cheſſeman, place it at the right end of the Fraction, ſigned by 11, which is the half diſtance de<g ref="char:EOLhyphen"/>manded. And if the 22 Fraction were propounded, the half diſtance would ſtill remain the ſame: How<g ref="char:EOLhyphen"/>beit (in that caſe) the odde Fra<g ref="char:EOLhyphen"/>ction ſigned by 21, would remain over and beſides the two moities,
+<pb n="44" facs="tcp:106347:30"/>which nevertheleſſe will produce no errour in the uſe of the table, as ſhall appear hereafter.</p>
+               <p n="10">X. <hi>A Fraction of the Scale of Num<g ref="char:EOLhyphen"/>bers being propounded, to diſcover upon the ſide-rank of Alphabets the third part of the diſtance betwixt it and the firſt Fraction (including the firſt Fraction for one) uſe this Rule; Having placed a Cheſſeman at the right end of the Fra<g ref="char:EOLhyphen"/>ction given, as before, obſerve whether the number of the Fraction placed next above it may be divided into three even parts; if ſo, then take the third part thereof, and place another Cheſſeman at the right end of the Fraction next under that third part: but if that number will not admit ſuch an equall diviſion, then neglecting the odde Fraction or Fracti<g ref="char:EOLhyphen"/>ons ſo remaining, proceed with the num<g ref="char:EOLhyphen"/>bers, which do ſo equally divide them<g ref="char:EOLhyphen"/>ſelves, as before, and ſo you ſhall diſco<g ref="char:EOLhyphen"/>ver the third part you look for.</hi>
+               </p>
+               <p>
+                  <hi>Example.</hi> Let the 22 Fraction be given, and the third part of the diſtances required: Here, the number next above it is 21, whereof the third part is 7;
+<pb n="45" facs="tcp:106347:30"/>wherefore finding 7 amongſt the num<g ref="char:EOLhyphen"/>bers placed at the right ends of the Fractions, I place another Cheſſman at the right end of the eighth Fraction, which denotes the third part required: Howbeit the 23 Fraction being given, an odde Fraction will remain over and above the number, which ſo equally divides it ſelf into three parrs, as afore<g ref="char:EOLhyphen"/>ſaid, and if the 24 Fraction were pro<g ref="char:EOLhyphen"/>pounded, two ſuch odde Fractions would remain; which (nevertheleſſe) cauſeth no inconvenience in the pra<g ref="char:EOLhyphen"/>ctice of this Inſtruments, as ſhall be manifeſted in the proper place.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="46" facs="tcp:106347:31"/>
+               <head>
+                  <hi>CHAP. IV.</hi> The Application of the Rule of Proportion.</head>
+               <p>WE have done with Numeration, Application infues, which teach<g ref="char:EOLhyphen"/>eth the uſe of this Inſtrument for the eaſie and ready reſolution of divers Propoſitions in <hi>Arithmetick</hi> and <hi>Geo<g ref="char:EOLhyphen"/>metry,</hi> as followeth;</p>
+               <div n="1" type="proposition">
+                  <head>
+                     <hi>Prop. 1.</hi> To three numbers given, to finde a fourn in a direct proportion.</head>
+                  <p>This is termed the Rule of <hi>Three</hi> (or more uſually) the <hi>Golden Rule</hi> becauſe it is of greateſt uſe in Arith<g ref="char:EOLhyphen"/>metick and Geometry: For the per<g ref="char:EOLhyphen"/>formance
+<pb n="47" facs="tcp:106347:31"/>thereof obſerve theſe enſu<g ref="char:EOLhyphen"/>ing directions.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="I"/> 
+                     <hi>By the Inſtructions delivered in the ſecond Chapter aforegoing find the numbers given upon the Scale of Num<g ref="char:EOLhyphen"/>bers, ſetting at each of them a pointed Cheſſeman, as alſo three other plain Cheſſemen upon the ſide rank of Alpha<g ref="char:EOLhyphen"/>bets at the left ends of their reſpective Fractions; This done, if by the fourth and fifth Rules of the laſt Chapter you will diſcover a fourth term to the three termes propounded, you ſhall there finde the number you look for.</hi>
+                  </p>
+                  <p>
+                     <hi>Example.</hi> If 12980 (repreſented upon the fift Fraction at the point <hi>f</hi>) be the firſt term given, 32192 (repre<g ref="char:EOLhyphen"/>ſented upon the nineteenth Fraction at the point <hi>g</hi>) the ſecond, and 18452 (repreſented upon the tenth Fraction at the point <hi>h</hi>) the third, the fourth term (by the fourth and fifth Rules of the laſt Chapter) will tall upon the four and twentieth Fraction at the the point <hi>k,</hi> (by the laſt Rule of
+<pb n="48" facs="tcp:106347:32"/>the ſecond Chapter) gives you the number 45907, the fourth proportional required: ſo if 45907 vvere given for the firſt term, 18452 for the ſecond, and 32292 for the third (in working upwards upon the ſide-rank, and to<g ref="char:EOLhyphen"/>wards the left hand upon the table) the fourth term will be found to reſt upon the fift Fraction at the point <hi>f,</hi> repre<g ref="char:EOLhyphen"/>ſenting 12980, as before.</p>
+                  <p>In like manner, if <hi>g</hi> (<hi>viz.</hi> 32292) were the firſt term given, <hi>h</hi> (<hi>viz.</hi> 18452) the ſecond, and <hi>k</hi> (<hi>viz.</hi> 45907) the third, the fourth term would fall upon the 15 Fraction at the point <hi>l,</hi> but (becauſe in that caſe you go beyond the table towards the right hand) you are to take inſtead thereof (according to the direction given in the third exam<g ref="char:EOLhyphen"/>ple of the fift Rule of the laſt Chapter) the point <hi>m</hi> upon the 16 Fraction, which repreſents 26231, the fourth proporti<g ref="char:EOLhyphen"/>onall required: ſo likewiſe if <hi>h</hi> (re<g ref="char:EOLhyphen"/>preſenting 18452) be the firſt term, <hi>g</hi> (repreſenting 32292) the ſecond, and <hi>f</hi> (repreſenting 12980) the third, the fourth term will reſide upon the 14
+<pb n="49" facs="tcp:106347:32"/>Fraction at four digits and four mi<g ref="char:EOLhyphen"/>nimes of the 30 Interval, <hi>viz.</hi> at the point <hi>n.</hi> Howbeit, in this caſe alſo you are not take that point, but (becauſe you overſhot the Table upon the left hand) you are (inſtead thereof) to take the digits and minimes of the Fraction next above it in the ſame Interval, <hi>viz.</hi> the point <hi>p,</hi> upon the 13 Fraction, which repreſents 22715, the fourth pro<g ref="char:EOLhyphen"/>portionall required, according to the fourth example of the ſaid fift Rule of the laſt Chapter.</p>
+                  <p>Again, if <hi>f</hi> (<hi>viz.</hi> 12980) be the firſt term, <hi>g</hi> (<hi>viz.</hi> 32292) the ſecond, and <hi>k</hi> (<hi>viz.</hi> 45707) the third. In this caſe the fourth term will (according to the fift example of the fift Rule of the laſt Chapter) at laſt reſide upon the third Fraction at four digits and four mi<g ref="char:EOLhyphen"/>nimes of the third Interval, <hi>viz.</hi> at the point <hi>q,</hi> which (by the fourth Rule of the ſecond Chapter) repreſents 11422, the fourth proportionall ſought for: On the other ſide, if <hi>k</hi> (<hi>viz.</hi> 45907) were the firſt term, <hi>h</hi> (<hi>viz.</hi> 18452) the ſecond, and <hi>f</hi> (<hi>viz.</hi> 12980) the third,
+<pb n="50" facs="tcp:106347:33"/>the fourth term will (according to the laſt example of the ſaid fift Rule of the laſt Chapter) at laſt fall upon the 27 Fraction at four digits and four mi<g ref="char:EOLhyphen"/>nimes of the 30 Interval, <hi>viz.</hi> at the point <hi>r,</hi> which repreſents theſe figures 52169: Howbeit, becauſe common ſence tells me, that the fourth term to the other three laſt given termes can<g ref="char:EOLhyphen"/>not be ſo great, nor yet ſo little as 521.69; therefore I conclude the term required to be (in this caſe) 5216.9, or 5217, <hi>ferè.</hi>
+                  </p>
+                  <p>If a Cheſt of Sugar, that weighs 7 <hi>C.</hi> 2 <hi>qu.</hi> and 17 <hi>lb.</hi> coſt 36 <hi>l.</hi> 14 <hi>s.</hi> 10 <hi>d.</hi> what is the price of 2 <hi>C,</hi> 1 <hi>q,</hi> and 4 <hi>lib.</hi> thereof according to the ſame rate? Here (after the reduction of the broken parts of the number given into Deci<g ref="char:EOLhyphen"/>mals) the firſt term is 7.6518, the ſe<g ref="char:EOLhyphen"/>cond, 36.7417, and the third, 2.2857, with which three terms, working upon the Table, according to the precepts before premiſed, I find the fourth term to be fixed upon the ſecond Fraction at two digits and two minimes of the 17 Interval, which point yields me theſe
+<pb n="51" facs="tcp:106347:33"/>figures <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0975, whereof I take the two fi<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, (<hi>viz.</hi> 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) for 10 <hi>l.</hi> and the other three for a decimal Fraction of a pound Sterling, which (after Reduction) a<g ref="char:EOLhyphen"/>mounts to 19 <hi>s.</hi> 6 <hi>d.</hi> And therefore I conclude that 2 <hi>C.</hi> 1 <hi>qu.</hi> and 4 <hi>lb.</hi> of that Sugar is worth 10 <hi>l.</hi> 19 <hi>s.</hi> 6 <hi>d.</hi> which was the term required; for when I have thoſe five figures given me upon the Table for the fourth term, common reaſon tells me, they cannot ſignifie 109.75, for that were too great, nor 1.0975, for that were too little, and therefore (in this caſe) I take 10.975, (<hi>viz.</hi> 10 <hi>l.</hi> 19 <hi>s.</hi> 6 <hi>d.</hi>) being the fourth term ſought for. Now from this <hi>exam<g ref="char:EOLhyphen"/>ple,</hi> and the reſt before premiſed, for the ready working of the digits and mi<g ref="char:EOLhyphen"/>nimes of the three termes propounded, this generall Rule, or Corollary may be inferred.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="II"/> 
+                     <hi>In all queſtions that may be per<g ref="char:EOLhyphen"/>formed by the Golden Rule, the digits and minimes to be taken off from the firſt term are alwayes ſo taken off from that ſide of the firſt term which inclines to<g ref="char:EOLhyphen"/>wards the ſecond term, and then the di<g ref="char:EOLhyphen"/>gits
+<pb n="52" facs="tcp:106347:34"/>and minimes of the other two termes are alwayes taken off upon the contrary ſide to thoſe of the firſt term;</hi> as is ma<g ref="char:EOLhyphen"/>nifeſt by all the examples aforegoing, which Rule being alwayes duly obſer<g ref="char:EOLhyphen"/>ved, you may with greater confidence proceed to reſolve any queſtion pro<g ref="char:EOLhyphen"/>pounded. And becauſe this Corollary is alwayes to be kept in memory, I have expreſſed it in this <hi>Diſtick,</hi>
+                  </p>
+                  <l>Aurata in Regula bis laeva aut dextra petatur,</l>
+                  <l>Dum contragreditur Terminus ipſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> prior.</l>
+                  <p>Thus Engliſhed:</p>
+                  <l>For th' Rule of <hi>Three</hi> each hand may be purſued two times,</l>
+                  <l>Whiles that the foremoſt term againſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them alwayes climes.</l>
+               </div>
+               <div n="2" type="proposition">
+                  <head>
+                     <hi>Prop. 2.</hi> To three numbers given, to finde a four<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in an inverſed proportion.</head>
+                  <p>This Rule of Three <hi>Inverſe</hi> is th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="53" facs="tcp:106347:34"/>ſame with that of the Rule of Three direct, if inſtead of the firſt term you take the third term given to be the firſt in the queſtion, by tranſpoſing the laſt into the place of the firſt.</p>
+                  <p>
+                     <hi>Example.</hi> If when the price of wheat is 40 ſhillings the quarter, a peny white loaf weighs 8 ounces, and 9 peny-weight; how much ought a peny white loaf to weigh, when wheat is at 23 ſhillings, ſix pence the quarter? Here the termes given are, <hi>viz.</hi> 40 the firſt, 8.45 (after Reduction) the ſe<g ref="char:EOLhyphen"/>cond, and 23.5 the third, which, as they are propounded in the queſtion, ſtand in this form;
+<q>40 — 8.45 — 23.5</q>
+                  </p>
+                  <p>But being inverted, ſtand thus;
+<q>23.5 — 8.45 — 40</q>
+                  </p>
+                  <p>Unto which three, having (by the di<g ref="char:EOLhyphen"/>rections aforegoing) made ſearch (upon the Table) for a fourth proportionall, you ſhall find it to fall upon the ſixt
+<pb n="54" facs="tcp:106347:35"/>Fraction at three digits and three mi<g ref="char:EOLhyphen"/>nimes of the 25 Interval, which point affords you theſe Figures 14.383, which (after Reduction) amount to 14 ounc. 7 peny-weight, 16 grains, being the term required; for ſo much a peny white loaf ought to weigh (according to the aboveſaid rate) when wheat is ſold for 23 <hi>s.</hi> 6 <hi>d.</hi> the quarter.</p>
+               </div>
+               <div n="3" type="proposition">
+                  <head>
+                     <hi>Prop. 3.</hi> One number being given to be multiplied by another given number, to finde the product.</head>
+                  <p>In multiplication there are four terms Geometrically proportionall, whereof the firſt is alwayes an unity, or 1, the multiplicator and multiplicand are the two meanes, and the product is the fourth term demanded; for, as 1 is to the multiplicand; ſo is the multipli<g ref="char:EOLhyphen"/>cator, to the product: or, as 1 is to the multiplicator, ſo is the multiplicand, to the product. Now an unity or 1 be<g ref="char:EOLhyphen"/>ing alwayes repreſented at the begin<g ref="char:EOLhyphen"/>ning
+<pb n="55" facs="tcp:106347:35"/>of the Scale of numbers (as ap<g ref="char:EOLhyphen"/>pears by the eighth Rule of the ſecond Chapter) you need not there place a pointed Cheſſeman to denote it (being notorious of it ſelf) but onely where the multiplicand or multiplicator are found upon the ſaid Scale: when there<g ref="char:EOLhyphen"/>fore any ſuch propoſition (as that a<g ref="char:EOLhyphen"/>bove) is made, placing one pointed Cheſſeman upon the Multiplicator, and another upon the Multiplicand, as alſo two plain Cheſſemen upon the ſide rank at the right ends of their reſpe<g ref="char:EOLhyphen"/>ctive Fractious, and taking the begin<g ref="char:EOLhyphen"/>ning of the line to be alwayes the firſt term in the queſtion, by the directions given in the firſt propoſition of this Chapter, find out a fourth term to thoſe three terms propounded, which done, that fourth term is the product you look for.</p>
+                  <p>
+                     <hi>Example.</hi> 287 being given to be mul<g ref="char:EOLhyphen"/>tiplied by 139, the three termes gi<g ref="char:EOLhyphen"/>ven are,
+<pb n="56" facs="tcp:106347:36"/>
+                     <q>1 — 139 — 287</q>
+                  </p>
+                  <p>Unto which, if a fourth be ſought for, by the inſtructions delivered in the firſt Propoſition of this Chapter, it will be found upon the 22 Fraction at four digits and three minimes of the 23 In<g ref="char:EOLhyphen"/>terval, which point gives you theſe fi<g ref="char:EOLhyphen"/>gures 39893, the product required.</p>
+                  <p>What is a wedge of gold worth, that weigheth 4 ounces, 6 peny-weight, and 15 grains, at 3 <hi>l.</hi> 3 <hi>s.</hi> 2 <hi>d.</hi> the ounce? Here the weight of the wedge (after Reduction) is 4.3315, and the rate of an ounce is 3.1582; and therefore the termes given are,
+<q>1 — 4.3315 — 3.1582 —</q>
+                  </p>
+                  <p>Whoſe fourth term I diſcover to fall upon the ſixt Fraction at two digits and one minime of the 33 Interval, which gives me theſe figures 1368, whereof I take the two firſt for pounds Sterling, and the other two for the decimal Fra<g ref="char:EOLhyphen"/>ction of a pound Sterling, which (af<g ref="char:EOLhyphen"/>ter
+<pb n="57" facs="tcp:106347:36"/>Reduction) amounts to 13 <hi>s.</hi> 7 <hi>d.</hi> and ſomewhat more; for common-reaſon dictates to me, that it cannot be 136 <hi>l.</hi> nor ſo little as 1 <hi>l.</hi> and therefore I conclude the product to be 13 <hi>l.</hi> 13 <hi>s.</hi> 7 <hi>d.</hi> as before, being the value of the 4 <hi>ounc.</hi> 6 <hi>peny w.</hi> and 15 <hi>grains,</hi> the term required. In Multiplication obſerve theſe Rules.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                     <hi>In performing Multiplication you alwayes operate upon the Table towards the right hand, and upon the ſide-rank of Alphabets alwayes downwards:</hi> for an unity or 1 being alwayes the firſt term, you alwayes begin the account of the Alphabets and Letters compre<g ref="char:EOLhyphen"/>hended betwixt 1, and the term placed next to it, from the left ſide of the Ta<g ref="char:EOLhyphen"/>ble, which will alwayes tend towards the right hand, and then (by conſe<g ref="char:EOLhyphen"/>quence) in laying down the like di<g ref="char:EOLhyphen"/>ſtance betwixt the other term and the product, you are to proceed the ſame way, <hi>viz.</hi> towards the right hand; for the like reaſon it is, that you are al<g ref="char:EOLhyphen"/>wayes to work downwards upon the ſide-rank, becauſe there alſo you are to
+<pb n="58" facs="tcp:106347:37"/>begin your account from the firſt Fra<g ref="char:EOLhyphen"/>ction, being that, whereupon 1 (the firſt term) is repreſented: All which plainly appears by the premiſed ex<g ref="char:EOLhyphen"/>amples.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                     <hi>The digits and minimes which are to be taken off from the points of the termes given, are alwayes ſo to be taken off upon the left hand, and never upon the right.</hi> Here, by the <hi>termes given</hi> are intended onely the <hi>Multiplicand</hi> and <hi>Multiplicator;</hi> for, the firſt term (<hi>viz.</hi> 1) hath no digits or minimes at<g ref="char:EOLhyphen"/>tending it, being repreſented upon the firſt perpendicular at the beginning of the Scale of Numbers; but the Multi<g ref="char:EOLhyphen"/>plicand and Multiplicator may have digits and minimes attending them, which are alwayes to be taken off up<g ref="char:EOLhyphen"/>on the left hand, according to the di<g ref="char:EOLhyphen"/>rection of this Rule, and as is mani<g ref="char:EOLhyphen"/>feſt by the examples aforegoing.</p>
+               </div>
+               <div n="4" type="proposition">
+                  <pb n="59" facs="tcp:106347:37"/>
+                  <head>
+                     <hi>Prop. 4.</hi> One number being given to be divided by another given number, to finde the Quotient.</head>
+                  <p>As in Multiplication, ſo in Diviſion there are four termes Geomettically proportionall; whereof the Diviſor is alwayes the firſt, an unity or 1, and the Dividend the two mean terms, and the Quotient is the fourth term requi<g ref="char:EOLhyphen"/>red: for, as the Diviſor is to 1, ſo is the Dividend, to the Quotient; or as the Diviſor, is to the Dividend; ſo is 1, to the Quotient: and here (as in mul<g ref="char:EOLhyphen"/>tiplication) an unity or 1 being alwayes one of the terms you need not thereat place a pointed Cheſſeman to denote it; but onely where the Diviſor and Dividend are found upon the Scale, as alſo two plain Cheſſemen upon the ſide rank at the right ends of their reſpective Fractions; and then taking the Diviſor to be alwayes the firſt term in the que<g ref="char:EOLhyphen"/>ſtion, by the directions given in the firſt
+<pb n="60" facs="tcp:106347:38"/>Propoſition of this Chapter, finde out a fourth term to thoſe three terms pro<g ref="char:EOLhyphen"/>pounded; which done, that fourth term is the Quotient required.</p>
+                  <p>
+                     <hi>Example.</hi> 39893 being given to be divided by 287, the three termes given are,
+<q>287 — 1 — 39893 —</q>
+                  </p>
+                  <p>Or,
+<q>287 — 39893 — 1 —</q>
+                  </p>
+                  <p>Unto which if a fourth term be found out by the inſtructions given in the ſaid firſt Propoſition of this Chapter, it will be found at the ſecond Hundred of the ſixt Fraction, which gives this number 139, for the quotient required: ſo like<g ref="char:EOLhyphen"/>wiſe if 3989348 were given to be divi<g ref="char:EOLhyphen"/>ded by 287, the firſt three figures of the quotient would be found 139, as before, but (in that caſe) you are to annex un<g ref="char:EOLhyphen"/>to them two ciphers, to make the quo<g ref="char:EOLhyphen"/>tient conſiſt of five places; for that (in this queſtion) the diviſor may be writ<g ref="char:EOLhyphen"/>ten
+<pb n="61" facs="tcp:106347:38"/>under the dividend five times, as appears by the poſture of the numbers here<g ref="char:EOLhyphen"/>unto annexed.
+<table>
+                        <row>
+                           <cell>3</cell>
+                           <cell>9</cell>
+                           <cell>8</cell>
+                           <cell>9</cell>
+                           <cell>3</cell>
+                           <cell>4</cell>
+                           <cell>8</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>8</cell>
+                           <cell>7</cell>
+                           <cell>.</cell>
+                           <cell>.</cell>
+                           <cell>.</cell>
+                           <cell>.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>And therefore (in that caſe) the quotient required will be 13900; which caſe, with divers others (as they hap<g ref="char:EOLhyphen"/>pen) the Artiſt (after he perfectly un<g ref="char:EOLhyphen"/>derſtands, by practice, the nature of this Inſtrument) will be well able (by diſcretion) to order, as occaſion ſhall ſerve.</p>
+                  <p>If a Pipe of wine (containing 126 Gallons) coſt 25 <hi>l.</hi> 14 <hi>s.</hi> 5 <hi>d.</hi> what is the price of a Gallon thereof, accord<g ref="char:EOLhyphen"/>ing to the ſame rate? Here the terms in the queſtion (after Reduction) are,
+<q>126 — 25.721 — 1 —</q>
+                  </p>
+                  <p>For (in this caſe) the queſtion is, if 126 Gallons give 25.721, how much will one Gallon yield? wherefore pro<g ref="char:EOLhyphen"/>ceeding, according to the directions a<g ref="char:EOLhyphen"/>foregoing, I finde the fourth term to reſide upon the 12 Fraction at three digits and five minimes of the fift In<g ref="char:EOLhyphen"/>terval,
+<pb n="62" facs="tcp:106347:39"/>where I find theſe Figures repre<g ref="char:EOLhyphen"/>ſented, <hi>viz.</hi> 20377, which (in reaſon) I conceive to be a decimal Fraction of a pound Sterling, and (after reduction thereof) diſcover it to repreſent 4 <hi>s.</hi> 1 <hi>d.</hi> and ſo much is the value of every Gallon in the Pipe, and the Quotient required. In <hi>Diviſion,</hi> for taking off the digits and minimes obſerve this Rule.</p>
+                  <p>
+                     <hi>When the digits and minimes are taken off from the right hand of the Diviſor, take the digits and minimes placed on the left hand of the Dividend; and when on the left hand of the Diviſor, take them from the right hand of the Dividend.</hi> For the ready diſcovery and taking off the digits and minimes in <hi>Multiplica<g ref="char:EOLhyphen"/>tion</hi> and <hi>Diviſion,</hi> let this <hi>Hexameter</hi> be remembred.</p>
+                  <l>
+                     <hi>Multiplicá laevè, ſed divide dextri<g ref="char:EOLhyphen"/>finiſtre.</hi>
+                  </l>
+                  <l>Multiply by th' right hand, with both the hands divide.</l>
+               </div>
+               <div n="5" type="proposition">
+                  <pb n="63" facs="tcp:106347:39"/>
+                  <head>
+                     <hi>Prop. 5.</hi> Two numbers being given, to find a third Geometrically proportionall unto them, and to three a fourth, and to four a fift, &amp;c.</head>
+                  <p>This Propoſition may be reſolved by the directions given in the fixt Rule of the laſt Chapter; for, having two termes given, and placing Cheſſemen upon them, as alſo at the right ends of their reſpective Fractions, as in the a<g ref="char:EOLhyphen"/>foregoing Propoſitions, if you (by the ſaid ſixt Rule) find a third term to the two other given terms, that third is the term you look for.</p>
+                  <p>
+                     <hi>Example.</hi> If 2 and 4 be the two terms given, a third proportional unto them (by the fixt Rule of the laſt Chapter) will be found upon the 33 Fraction at two digits and two minimes of the 19 Interval, which point repreſents 8, the third term required: In like manner, you may proceed to find a fourth term to thoſe three, which will be 16, and a fift to thoſe 4 terms found, which wil be 32, &amp;c. And ſo you may (by this means)
+<pb n="64" facs="tcp:106347:40"/>erect a rank of numbers Geometrically proportionall, which in <hi>Arithmetick</hi> is called <hi>Geometricall Progreſſion.</hi>
+                  </p>
+               </div>
+               <div n="6" type="proposition">
+                  <head>
+                     <hi>Prop. 6.</hi> To extract the Square root of any number under <hi>10000000000.</hi>
+                  </head>
+                  <milestone type="tcpmilestone" unit="unspecified"/>
+                  <p>
+                     <hi>FIrſt, prepare the Square-number gi<g ref="char:EOLhyphen"/>ven for extraction (as in Vulgar A<g ref="char:EOLhyphen"/>rithmetick) by ſubſcribing a point under each other figure, beginning with the laſt firſt:</hi> ſo theſe numbers following being given for extraction, and prepared, as aforeſaid, will ſtand thus,
+<table>
+                        <row>
+                           <cell>3</cell>
+                           <cell>2</cell>
+                           <cell>8</cell>
+                           <cell>1</cell>
+                           <cell>5</cell>
+                           <cell>3</cell>
+                           <cell>2</cell>
+                           <cell>2</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                        </row>
+                     </table>
+                     <table>
+                        <row>
+                           <cell>1</cell>
+                           <cell>4</cell>
+                           <cell>5</cell>
+                           <cell>2</cell>
+                           <cell>7</cell>
+                           <cell>5</cell>
+                           <cell>3</cell>
+                           <cell>2</cell>
+                           <cell>2</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>And ſo many points as are in that manner ſubſcribed, of ſo many figures will the root conſiſt, <hi>viz.</hi> in theſe ex<g ref="char:EOLhyphen"/>amples of five figures.</p>
+                  <figure/>
+                  <figure>
+                     <head>Place this between page <hi>64</hi> and <hi>65</hi>
+                     </head>
+                  </figure>
+                  <p>
+                     <hi>Example.</hi> Let 328153225 be the ſquare number given, &amp; the root there<g ref="char:EOLhyphen"/>of required. This number admits five points to be ſubſcribed under it, (as appears before) and is found upon the 19 Fraction at five digits of the 21 In<g ref="char:EOLhyphen"/>terval, alſo the half diſtance thereof (by the ſeventh Rule of the laſt Cha<g ref="char:EOLhyphen"/>pter) is likewiſe diſcovered at two di<g ref="char:EOLhyphen"/>gits and three minimes of the 11 Inter<g ref="char:EOLhyphen"/>val, as alſo the half diſtance in the ſide
+<pb n="66" facs="tcp:106347:43"/>rank (by the tenth Rule of the ſaid laſt Chapter) upon the tenth Fraction; wherefore if I place another pointed Cheſſeman upon the ſaid 10 Fraction at two digits and three minimes of the 11 Interval (being the ſame with the half diſtance upon the Fraction of the number given) that point will diſcover theſe figures 18115, being the root re<g ref="char:EOLhyphen"/>quired.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                     <hi>But when the firſt point towards the right hand happens to fall under the ſecond figure of the number given, and there be alſo an odde Fraction upon the ſide rank, proceed (as in the laſt Rule) to find the half diſtances upon the Fraction of the number given, and alſo upon the ſide rank: Howbeit, to diſcover the true Fraction, upon which the root (in ſuch caſe) is to be found, account three Al<g ref="char:EOLhyphen"/>phabets downwards from the half di<g ref="char:EOLhyphen"/>ſtance upon the ſide-rank (in regard the firſt figure of the number given hath no point under it) &amp; there place another plain Cheſſeman; Alſo (in regard of the odde Fraction upon the ſide rank) account in in like manner three Alphabets towards
+<pb n="67" facs="tcp:106347:43"/>the right hand from the half diſtance upon the Fraction where the number given is ſcituate, and there likewiſe place another pointed Cheſſeman: All this per<g ref="char:EOLhyphen"/>formed, in the angle of poſition, where the laſt placed Cheſſeman meets with the true Fraction of the root (before found upon the ſide rank) you ſhall diſcover the root required.</hi>
+                  </p>
+                  <p>
+                     <hi>Example.</hi> Let the Square root of the number ſubſcribed be deſired.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>1</cell>
+                           <cell>4</cell>
+                           <cell>5</cell>
+                           <cell>2</cell>
+                           <cell>7</cell>
+                           <cell>5</cell>
+                           <cell>3</cell>
+                           <cell>2</cell>
+                           <cell>2</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>This number is found upon the ſixt Fraction at one digit of the 31 Inter<g ref="char:EOLhyphen"/>val, and the half diſtance thereof at 3 minimes of the 16 Interval, as alſo the half diſtance in the ſide rank upon the 3 Fraction; but becauſe I find no point under the firſt figure, I account upon the ſide rank 3 Alphabets down<g ref="char:EOLhyphen"/>wards from that 3 Fraction, and there<g ref="char:EOLhyphen"/>upon ſet another plain Cheſſeman at the left end of the 21 Fraction: Alſo, in regard (in this caſe) the fift Fraction in the ſide rank is an odde Fraction, I
+<pb n="68" facs="tcp:106347:44"/>likewiſe account three Alphabets to<g ref="char:EOLhyphen"/>wards the right hand from the half diſtance upon the Fraction, where the number given reſides, and thereupon place another pointed Cheſſeman at three minimes of the 34 Interval; All this thus acted, I finde the Cheſſeman laſt placed to meet wtih the 21 Fraction (being the true Fraction of the root, as aforeſaid) at three minimes of the ſaid 34 Interval, where having placed ano<g ref="char:EOLhyphen"/>ther pointed Cheſſeman, I diſcover theſe figures 38115, being the root ſought for. And here, let me give you this <hi>Rule</hi> once for all, That <hi>whenſoever there is no point under the firſt figure of the number given, you are to account upon the ſide rank three Alphabets down<g ref="char:EOLhyphen"/>wards from the half diſtance there found, and when there is an odde Fraction up<g ref="char:EOLhyphen"/>on the ſide rank, you are likewiſe to ac<g ref="char:EOLhyphen"/>count three Alphabets upon the Fraction of the number given towards the right hand from the half diſtance found upon that Fraction,</hi> as you finde it practiſed in the laſt <hi>Example.</hi> Note alſo, that when you have more figures diſcovered
+<pb n="69" facs="tcp:106347:44"/>upon the Table for the root, then the number given requires, thoſe that ex<g ref="char:EOLhyphen"/>ceed are a decimal Fraction belonging to the root; likewiſe when a mixt num<g ref="char:EOLhyphen"/>ber is given, you are to ſubſcribe the points only under the ſignificant figures thereof.</p>
+                  <p>And therefore if theſe two numbers, <hi>viz.</hi>
+                     <table>
+                        <row>
+                           <cell>4</cell>
+                           <cell>3</cell>
+                           <cell>6</cell>
+                           <cell>2</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                        </row>
+                     </table>, and
+<table>
+                        <row>
+                           <cell>1</cell>
+                           <cell>7</cell>
+                           <cell>6</cell>
+                           <cell>2</cell>
+                           <cell>.</cell>
+                           <cell>8</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                     </table> were given; the Square root of the firſt would be 208.86, and of the other 41.985. All which obſervations, and the like (after ſome practice upon the Table) common reaſon will dictate unto you.</p>
+               </div>
+               <div n="7" type="proposition">
+                  <head>
+                     <hi>Prop. 7.</hi> To extract the Cube-root of any number given, under <hi>1000000000000000.</hi>
+                  </head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                     <hi>Prepare the Cube-number given to be extracted (as in Vulgar Arithmetick) by ſubſcribing a point under every third figure, and beginning with the laſt firſt:</hi> So the number hereafter following prepared for extraction, will ſtand thus;
+<pb n="70" facs="tcp:106347:45"/>
+                     <table>
+                        <row>
+                           <cell>2</cell>
+                           <cell>2</cell>
+                           <cell>1</cell>
+                           <cell>9</cell>
+                           <cell>8</cell>
+                           <cell>9</cell>
+                           <cell>4</cell>
+                           <cell>0</cell>
+                           <cell>6</cell>
+                           <cell>6</cell>
+                           <cell>1</cell>
+                           <cell>2</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                        </row>
+                     </table> And ſo many points as are in this man<g ref="char:EOLhyphen"/>ner ſubſcribed, of ſo many figures will the root conſiſt, according to the afore<g ref="char:EOLhyphen"/>ſaid obſervation of the Square-root.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                     <hi>Place a pointed Cheſſeman at the number given, and likewiſe another up<g ref="char:EOLhyphen"/>on the ſide rank at the left end of the Fra<g ref="char:EOLhyphen"/>ction upon which the number given is ſcituate; this done, by the eighth Rule of the laſt Chapter, finde the third part of the diſtance betwixt the point of the number given, and the left end of the Fraction whereon it is placed, as alſo upon the ſide rank (by the eleventh Rule of the ſame Chapter) the third part of the diſtance betwixt that Fraction and the firſt Fraction. All this performed, when the firſt figure of the number given to<g ref="char:EOLhyphen"/>wards the left hand hath a point placed under it, and you find no odde Fraction or Fractions upon the ſide rank, then the point where the third part of the diſtance of the Fraction of the number given meets with the Fraction of the third part of the diſtance in the ſide rank, will
+<pb n="71" facs="tcp:106347:45"/>diſcover unto you the Cu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>-<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oot required.</hi>
+                  </p>
+                  <p>
+                     <hi>Example.</hi> Let 2219894066125 be the Cube number to be extracted; this number admits five points to be ſubſcri<g ref="char:EOLhyphen"/>bed under it (as appears above) and is found upon the 13 Fraction at five di<g ref="char:EOLhyphen"/>gits of the 17 Interval; alſo the third part of the diſtance, &amp;c. (by the eighth Rule of the laſt Chapter) at three di<g ref="char:EOLhyphen"/>gits and four minimes of the ſixt Inter<g ref="char:EOLhyphen"/>val, and likewiſe the third part of the diſtance in the ſide rank (by the 11 Rule of the laſt Chapter) upon the 5 Fraction; wherefore if I place another pointed Cheſſeman upon the ſaid 5 Fra<g ref="char:EOLhyphen"/>ction at 3 digits and 4 minimes of the 6 Interval (being the ſame with the third part of the diſtance upon the Fraction of the number given) that point repre<g ref="char:EOLhyphen"/>ſents theſe figures 13045. being the root you looke for.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                     <hi>But when the firſt point towards the right hand happens to fall under the ſe<g ref="char:EOLhyphen"/>cond or third figures of the number given, and there be alſo one or two odde Fracti<g ref="char:EOLhyphen"/>ons upon the ſide rank, proceed (as in the laſt Rule) to find the third part
+<pb n="72" facs="tcp:106347:46"/>of the diſtance, &amp;c. upon the Fraction of the number given, and alſo upon the ſide rank: Howbeit, to diſcover the true Fraction, upon which the root (in ſuch caſe) is to be found, for every figure which the ſaid firſt point hath towards the left hand (being never more then two) account two Alphabets downwards from the third part of the diſtance found upon the ſide rank, and there place another plain Cheſſeman; alſo for every odde Fraction, (which will never likewiſe exceed two) account in like manner two Alphabets towards the right hand from the third part of the diſtance upon the Fraction, where the number given is ſci<g ref="char:EOLhyphen"/>tuate, and there likewiſe place another pointed Cheſſeman: All this performed, in the angle of poſition, where the laſt placed Cheſſeman meets with the true Fraction of the root (before found upon the ſide rank) you ſhall diſcover the root required.</hi>
+                  </p>
+                  <p>
+                     <hi>Example.</hi> Let the Cube-root of the number under-written be deſired.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>6</cell>
+                           <cell>4</cell>
+                           <cell>1</cell>
+                           <cell>9</cell>
+                           <cell>2</cell>
+                           <cell>1</cell>
+                           <cell>9</cell>
+                           <cell>2</cell>
+                           <cell>0</cell>
+                           <cell>6</cell>
+                           <cell>4</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell>.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="73" facs="tcp:106347:46"/>
+                  <p>This number is found upon the 30 fra<g ref="char:EOLhyphen"/>ction at two digits and five minimes of the third intervall, and the third part of the diſtance, &amp;c. (by the eight Rule of the laſt chapter) at four digits four minimes and ſomewhat more of the firſt intervall, as alſo the third part of the diſtance in the ſide rank (by the 11 Rule of the laſt Chapter) upon the 10 Fraction; but becauſe I find the firſt point of the number given to have a fi<g ref="char:EOLhyphen"/>gure before it towards the left hand, I account two Alphabets downwards from the third part of the diſtance found upon the ſide rank (<hi>viz.</hi> From the 10 Fraction to the 22 Fraction) and there place another plain Cheſſe<g ref="char:EOLhyphen"/>man, which 22 Fraction is the Fraction, whereupon the root is to be found, and therefore I place there another plain Cheſſeman: Again, for the two odde Fractions (<hi>viz.</hi> the 28, and 29) I ac<g ref="char:EOLhyphen"/>count four Alphabets towards the right hand from the third part of the diſt<g ref="char:EOLhyphen"/>ance upon the Fraction of the number given, and there likewiſe place another pointed Cheſſeman: All this performed,
+<pb n="74" facs="tcp:106347:47"/>I finde the Cheſſeman laſt placed to meet with the 22 Fraction (being the true Fraction of the root, as aforeſaid) at four digits and four minimes and ſomwhat more of the 25 Interval, where having placed another pointed Cheſſe<g ref="char:EOLhyphen"/>man, I diſcover theſe figures 4004, be<g ref="char:EOLhyphen"/>ing the root required. So 172.68 being propounded to be extracted, the Cube-root thereof will be found upon the 27 Fraction at three digits of the 31 In<g ref="char:EOLhyphen"/>terval, where you ſhall finde theſe fi<g ref="char:EOLhyphen"/>gures repreſented 55686, whereof (common ſence tells me) 5 are the In<g ref="char:EOLhyphen"/>tegers, and the reſt of the figures are a decimal Fraction of the root, ſo as (in that example) the true root ſought for (after ſeparation of the Integral part from the broken part thereof) is 5.5686.</p>
+                  <p>Here I might proceed to ſhew a fur<g ref="char:EOLhyphen"/>ther uſe of this <hi>Inſtrument</hi> for the re<g ref="char:EOLhyphen"/>ſolving of divers other Propoſitions in <hi>Arithmetick</hi> and <hi>Geometry;</hi> as, <hi>Betwixt two numbers given, to diſcover one, two, or more mean proportionals; To three numbers given, to finde a fourth in a du<g ref="char:EOLhyphen"/>plicated
+<pb n="75" facs="tcp:106347:47"/>or triplicated proportion; To work Rules of plurall Proportion; The double Golden Rules direct and Inverſe; The Rules of Fellowſhip, Alligation, Falſe poſition, &amp;c.</hi> But I have deemed theſe (at preſent) ſufficient to ſatisfie the curioſity of the <hi>Practitioner,</hi> who in obtaining the knowledge of theſe, (if he eſteem them worthy his paines) may be thereby ſo perfectly acquainted with the nature of the <hi>Table,</hi> that he may afterwards be able to reſolve not only the Propoſitions above-mentioned but all others, which may be performed by <hi>Arithmetick</hi> either Vulgar or Artifi<g ref="char:EOLhyphen"/>tial; And (perhaps upon further ſcru<g ref="char:EOLhyphen"/>tiny) ſome others alſo, which cannot be reſolved without <hi>Symbolicall Arith<g ref="char:EOLhyphen"/>metick,</hi> uſually called <hi>Algebra:</hi> All which I will hereafter eudeavour alſo to explain, (as vacancie fro<g ref="char:cmbAbbrStroke">̄</g> other more pertinent affairs will permit) together with the Fabrick and Uſe of a <hi>Trigono<g ref="char:EOLhyphen"/>metricall</hi> Table of Proportion for the reſolution of Plain and Sphericall Triangles, if I ſhall finde the paines herein already taken may obtain grate<g ref="char:EOLhyphen"/>full
+<pb n="76" facs="tcp:106347:48"/>reception: This Tractate being (indeed) onely intended as an <hi>Eſchan<g ref="char:EOLhyphen"/>tillon,</hi> or glimpſe of that which may be performed upon this and the other above-ſaid Table applicable to <hi>Trigo<g ref="char:EOLhyphen"/>nometry.</hi> 
+                     <q>
+                        <hi>Praeſtat pauca avide diſcere, quàm multa eumtaedio devorare.</hi> 
+                        <bibl>Eraſm. <hi>in Coll. rel.</hi>
+                        </bibl>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106347:48"/>
+         </div>
+      </body>
+   </text>
+</TEI>
